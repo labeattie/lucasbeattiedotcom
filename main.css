@@ -1,5 +1,7 @@
 body {
     margin: 0;
-    background: pink;
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+    background: black;
     text-align: center;
 }
