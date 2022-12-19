@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Lucas Beattie"
+author: "Lucas Beattie"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md"}
-  - {file: "index.html"}
+  - {file: "old_index.html"}
+  - {file: "index.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
