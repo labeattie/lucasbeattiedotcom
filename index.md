@@ -4,7 +4,7 @@ layout: page
 ---
 ![Lucas](/assets/low quality.png)
 
-Hi, my name is Lucas Beattie and I'm a structural engineer, primarily focused on bridges, in the Northern Kentucky/Cincinnati area. Two of my primary interests in my role are structural analysis and programming, often looking for ways to use SAP2000 and Excel VBA/macros in my work as often as possible. I really enjoy whenever a slightly deeper dive into mechanics or math is needed as well. See my resume for further information.
+My name is Lucas Beattie and I'm a structural engineer, primarily focused on bridges, in the Northern Kentucky/Cincinnati area. Two of my primary interests in my role are structural analysis and programming, often looking for ways to use SAP2000 and Excel VBA/macros in my work as often as possible. I really enjoy whenever a slightly deeper dive into mechanics or math is needed as well. See my resume for further information.
 
 Some of my interests outside of work include reading, fitness, personal finance, and travel. And I have had some more eclectic past forays into juggling, guitar, and table tennis.
 
