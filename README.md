@@ -11,3 +11,4 @@ My name is Lucas Beattie and I'm a structural engineer, primarily focused on bri
 Some of my interests outside of work include reading, fitness, personal finance, and travel. And I have had some more eclectic past forays into juggling, guitar, and table tennis.
 
 I expect content this site to be at least half engineering related, and otherwise plan to write some about my other interests, experiments, or activities. But I make no promises!
+{: style="color:gray; font-size: 80%; text-align: center;"}
