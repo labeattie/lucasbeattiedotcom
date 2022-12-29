@@ -1,6 +1,6 @@
 title: "Lucas Beattie"
 author: "Lucas Beattie"
-description: <span style="color:salmon; font-size:$font-size*.75;">Structural engineering, Excel VBA, and anything else interesting"</span>
+description: <span style="color:salmon; font-size:$font-size*.75;">Structural engineering, Excel VBA, and anything else interesting</span>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,11 +18,12 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "articles.html"}
   - {file: "index.md"}
+  - {file: "contact.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:lucasbeattiedotcom@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/labeattie"}
+  - {title: Subscribe, icon: linkedin-in, url: "https://www.linkedin.com/in/lucas-beattie-pe-43a05b139"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
