@@ -35,10 +35,9 @@ Do While i <= 10
     ActiveCell.Value = "Row " & i
     ActiveCell.Offset(1, 0).Select
     i = i + 1
-Loop```
+Loop
 
-End Sub
-{% endhighlight %}
+End Sub```
 
 Even if you've never seen VBA before you can probably get a rough idea of what's going on here. And if not, I encourage you to paste the code into the VBA editor (click Insert, Module, and paste it in) and run it to see (Click Run, Run Macro).
 
