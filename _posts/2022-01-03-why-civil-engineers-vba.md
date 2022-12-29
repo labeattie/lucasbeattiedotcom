@@ -26,7 +26,7 @@ VBA code is extremely easy to get started with. I plan to make another article i
 
 VBA code is intuitive to understand and easy to debug. You can probably slowly step through a simple existing macro (F8 in the VBA window) and follow exactly what's going one even if you've never seen VBA before. Here's an example of what I mean.
 
-```
+```visualbasic
 Sub example()
 
 Worksheets("Sheet1").Select
