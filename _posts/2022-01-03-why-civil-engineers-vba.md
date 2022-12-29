@@ -8,7 +8,7 @@ I've been an Excel nut since late high school and taught myself how to use VBA n
 
 
 
-![VBA](/assets/vba generic.png){: width="150" }
+![VBA](/assets/vba generic.png){: width="500" }
 
 ## What is it?
 
