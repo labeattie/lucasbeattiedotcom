@@ -10,17 +10,17 @@ I've been an Excel enthusiast since late high school and taught myself how to us
 
 ![VBA](/assets/vba generic.png){: width="600" }
 
-## What is it?
+### What is it?
 
 Visual Basic for Applications is Microsoft's coding language that comes prepackaged with Excel as well as many other Office applications. We will focus on using it with Excel because I believe that to be the highest utility application for VBA, but just be aware it can be used with some other Office applications as well. For one example. I have used it to resize a couple of hundred photos in a Word document. Macros is the name for a set of code written in VBA. Now onto why you should be interested in learning to use it.
 
-## It's free (and you already have it)
+### It's free (and you already have it)
 
 Well at least if you already have Microsoft Excel. In order to access VBA, go to File, Options, then select Customize Ribbon, and on the rightmost window, make sure the "Developer" box is checked. Now you have access to the developer tab on the ribbon, where you can create, edit, and record VBA macros. You can click the leftmost "Visual Basic" button to get to the window where code can be viewed and edited, or alternatively you can use the keyboard shortcut Alt+F11. 
 
 That's it. You're ready to go! No software download is needed, no add-ins, and no purchase or installation request to send to the IT department.
 
-## It's easy
+### It's easy
 
 VBA code is extremely easy to get started with. I plan to make another article in the near future about tips for getting started in VBA, but there are loads of free resources available to get started learning. I started with a tutorial series on YouTube. The documentation for this software is so robust and so many people are using it, that you can almost always figure out how to do exactly what you want with one of the first couple of results of a google search.
 
@@ -48,7 +48,7 @@ And last but certainly not least, Excel allows you to record macros. To use this
 
 VBA is very easy to get started in, and you don't need to learn everything at once. I recommend only learning what you need to get a few simple tasks done, and let your skills improve over time.
 
-## It's useful
+### It's useful
 
 Most importantly, learning to use Excel VBA is useful. I have come across many tasks where a basic knowledge of VBA, or even just a willingness to put in a couple of hours of trial and error, can save hours of uninteresting work. Some examples off the top of my head are: 
 
@@ -61,7 +61,7 @@ All of these tasks can be made lightning fast and ridiculously easy with a littl
 
 It doesn't have to end there though. As your skill in VBA grows, so do the opportunities to solve more complex problems. You can make sheets that serve as full programs where complex calculations are generated from user inputs, you can turn user inputs into input files for other software for efficient model iteration, and you can even interact with many software program directly with VBA. I plan to talk though some of the ways I've been able to use VBA in specific jobs in the future, but for a short preview, my favorite use for VBA lately is interacting directly with SAP2000. This allows me to auto-generate and iterate finite element models much faster, and in a much higher volume than I could do using SAP2000 manually.
 
-## It doesn't need to affect QAQC
+### It doesn't need to affect QAQC
 
 Lastly, I wanted to write a few words on checking calculations. This is one of the most vital parts of my job, and "checkability" is an import consideration when considering using software to perform calculations. I've come across a lot of fear toward using VBA (or other scripting/code) based on the belief that, because nobody else in the company knows how to use it, the code can't be checked. In my experience, this issue is easy to work around. If you put forth a bit of thought and planning in how you use VBA, your calculations should remain as checkable as ever. Maybe I will write a future post addressing this in more detail, but the main idea is that you:
 1.	Keep calculations in Excel formulas rather than inside the VBA code
