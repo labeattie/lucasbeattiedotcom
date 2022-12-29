@@ -5,7 +5,8 @@ categories: media
 ---
 
 I've been an Excel nut since late high school and taught myself how to use VBA near the end of college. I found this to be quite fun and rewarding, and so have kept an eye out for use cases in my job as a structural bridge engineer. Time and time again this has proven useful and led to fast and powerful solutions to problems I was working on. In my experience, few of my peers in structural or other civil engineering think of using coding/scripting software, even when the alternatives are time consuming or mundane. Let me tell you why I think civil engineers should learn how to use Excel VBA in their careers.
-/n/n
+
+
 
 ![VBA](/assets/vba generic.png){: width="25" }
 
@@ -25,7 +26,7 @@ VBA code is extremely easy to get started with. I plan to make another article i
 
 VBA code is intuitive to understand and easy to debug. You can probably slowly step through a simple existing macro (F8 in the VBA window) and follow exactly what's going one even if you've never seen VBA before. Here's an example of what I mean.
 
-```visualbasic
+```
 Sub example()
 
 Worksheets("Sheet1").Select
@@ -38,7 +39,8 @@ Do While i <= 10
     i = i + 1
 Loop
 
-End Sub```
+End Sub
+```
 
 Even if you've never seen VBA before you can probably get a rough idea of what's going on here. And if not, I encourage you to paste the code into the VBA editor (click Insert, Module, and paste it in) and run it to see (Click Run, Run Macro).
 
