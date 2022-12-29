@@ -1,5 +1,5 @@
 ---
-title:  "Why Civil Engineers Should Learn Excel VBA Macros"
+title: "Why Civil Engineers Should Learn Excel VBA Macros"
 layout: post
 categories: media
 ---
