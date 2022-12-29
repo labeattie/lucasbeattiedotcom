@@ -42,6 +42,7 @@ End Sub
 Even if you've never seen VBA before you can probably get a rough idea of what's going on here. And if not, I encourage you to paste the code into the VBA editor (click Insert, Module, and paste it in) and run it to see (Click Run, Run Macro).
 
 And last but certainly not least, Excel allows you to record macros. To use this feature, you just click Record Macro, do the tasks you want to be available in code, and click Stop Recording. Excel creates a Macro for you which you can then run over and over. Alternatively, you can use this feature to figure out how to do something in your own code by recording an action and examining the resulting code. 
+
 VBA is very easy to get started in, and you don't need to learn everything at once. I recommend only learning what you need to get a few simple tasks done, and let your skills improve over time.
 
 ## It's useful
