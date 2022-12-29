@@ -1,6 +1,6 @@
 title: "Lucas Beattie"
 author: "Lucas Beattie"
-description: "Structural engineering, Excel VBA, and anything else interesting."
+description: <span style="color:red">"Structural engineering, Excel VBA, and anything else interesting."</span>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
