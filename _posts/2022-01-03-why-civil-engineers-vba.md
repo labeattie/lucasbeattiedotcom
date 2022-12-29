@@ -50,7 +50,7 @@ VBA is very easy to get started in, and you don't need to learn everything at on
 
 ## It's useful
 
-Most importantly to all of this, learning to use Excel VBA is useful. I have come across many tasks where a basic knowledge of VBA, or even just a willingness to put in a couple of hours of trial and error, can save hours of uninteresting work. Some examples off the top of my head are: 
+Most importantly, learning to use Excel VBA is useful. I have come across many tasks where a basic knowledge of VBA, or even just a willingness to put in a couple of hours of trial and error, can save hours of uninteresting work. Some examples off the top of my head are: 
 
 * Opening and printing several files
 * Generating a recurring report from output data
