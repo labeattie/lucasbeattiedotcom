@@ -1,6 +1,6 @@
 title: "Lucas Beattie"
 author: "Lucas Beattie"
-description: <span style="color:red">Structural"</span>
+description: <span style="color:salmon; font-size:$font-size*.75;">Structural engineering, Excel VBA, and anything else interesting"</span>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
