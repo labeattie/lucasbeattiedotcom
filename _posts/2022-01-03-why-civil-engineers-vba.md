@@ -8,7 +8,7 @@ I've been an Excel nut since late high school and taught myself how to use VBA n
 
 
 
-![VBA](/assets/vba generic.png){: width="500" }
+![VBA](/assets/vba generic.png){: width="600" }
 
 ## What is it?
 
@@ -26,7 +26,8 @@ VBA code is extremely easy to get started with. I plan to make another article i
 
 VBA code is intuitive to understand and easy to debug. You can probably slowly step through a simple existing macro (F8 in the VBA window) and follow exactly what's going one even if you've never seen VBA before. Here's an example of what I mean.
 
-```Sub example()
+```
+Sub example()
 
 Worksheets("Sheet1").Select
 Range("a1").Select
@@ -38,7 +39,8 @@ Do While i <= 10
     i = i + 1
 Loop
 
-End Sub```
+End Sub
+```
 
 Even if you've never seen VBA before you can probably get a rough idea of what's going on here. And if not, I encourage you to paste the code into the VBA editor (click Insert, Module, and paste it in) and run it to see (Click Run, Run Macro).
 
