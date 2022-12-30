@@ -10,8 +10,8 @@ I've been an Excel enthusiast since late high school and taught myself how to us
 
 ![VBA](/assets/vba generic.png){: width="600" }
 
-## What is it?
-Visual Basic for Applications is Microsoft's coding language that comes prepackaged with Excel as well as many other Office applications. We will focus on using it with Excel because I believe that to be the highest utility application for VBA, but just be aware it can be used with some other Office applications as well. For one example. I have used it to resize a couple of hundred photos in a Word document. Macros is the name for a set of code written in VBA. Now onto why you should be interested in learning to use it.
+## What is VBA?
+Visual Basic for Applications is Microsoft's coding language that comes prepackaged with Excel as well as many other Office applications. We will focus on using it with Excel because I believe that to be the highest utility application for VBA, but just be aware it can be used with some other Office applications as well. For one example, I have used it to resize a couple of hundred photos in a Word document. Macros is the name for a set of code written in VBA. Now onto why you should be interested in learning to use it.
 
 ## It's free (and you already have it)
 Well at least if you already have Microsoft Excel. In order to access VBA, go to File, Options, then select Customize Ribbon, and on the rightmost window, make sure the "Developer" box is checked. Now you have access to the developer tab on the ribbon, where you can create, edit, and record VBA macros. You can click the leftmost "Visual Basic" button to get to the window where code can be viewed and edited, or alternatively you can use the keyboard shortcut Alt+F11. 
@@ -19,7 +19,7 @@ Well at least if you already have Microsoft Excel. In order to access VBA, go to
 That's it. You're ready to go! No software download is needed, no add-ins, and no purchase or installation request to send to the IT department.
 
 ## It's easy
-VBA code is extremely easy to get started with. I plan to make another article in the near future about tips for getting started in VBA, but there are loads of free resources available to get started learning. I started with a tutorial series on YouTube. The documentation for this software is so robust and so many people are using it, that you can almost always figure out how to do exactly what you want with one of the first couple of results of a google search.
+VBA code is extremely easy to get started with. I plan to make another article in the near future about tips for getting started in VBA, but there are loads of free resources available to get started learning. I started learning with a tutorial series on YouTube. The documentation for this software is so robust and so many people are using it, that you can almost always figure out how to do exactly what you want with one of the first couple of results of a google search.
 
 VBA code is intuitive to understand and easy to debug. You can probably slowly step through a simple existing macro (F8 in the VBA window) and follow exactly what's going one even if you've never seen VBA before. Here's an example of what I mean.
 
@@ -53,7 +53,7 @@ Most importantly, learning to use Excel VBA is useful. I have come across many t
 * Repetitive and error prone data entry
 * Reformatting data output from one program for input into another program
 
-All of these tasks can be made lightning fast and ridiculously easy with a little bit of VBA and are great ways to get started. 
+All of these tasks can be made lightning fast and ridiculously easy with a little bit of VBA, and they are great ways to get started. 
 
 It doesn't have to end there though. As your skill in VBA grows, so do the opportunities to solve more complex problems. You can make sheets that serve as full programs where complex calculations are generated from user inputs, you can turn user inputs into input files for other software for efficient model iteration, and you can even interact with many software program directly with VBA. I plan to talk though some of the ways I've been able to use VBA in specific jobs in the future, but for a short preview, my favorite use for VBA lately is interacting directly with SAP2000. This allows me to auto-generate and iterate finite element models much faster, and in a much higher volume than I could do using SAP2000 manually.
 
@@ -64,4 +64,4 @@ Lastly, I wanted to write a few words on checking calculations. This is one of t
 
 I think about how I would approach the problem without VBA, set up the Excel sheet to be used in that way, and then use VBA to speed up data entry and iteration. Then when someone checks the calculation, they can use the sheet as if there is no VBA, and plug in some of the inputs to spot check all calculations.
 
-That's it! I hope I've peaked your interest and inspired you to poke around in VBA a bit. I aim for this to first post of many on this website related to Excel and VBA. Good luck and let me know how it goes for you!
+That's it! I hope I've piqued your interest and inspired you to poke around in VBA a bit. I aim for this to be the first post of many on this website related to Excel and VBA. Good luck and let me know how it goes for you!
