@@ -1,10 +1,12 @@
 ---
 title: "Why Civil Engineers Should Learn Excel VBA Macros"
 layout: post
-categories: media
+categories: excel, vba
 ---
 
-I've been an Excel enthusiast since late high school and taught myself how to use VBA near the end of college. I found this to be quite fun and rewarding, and so have kept an eye out for use cases in my job as a structural bridge engineer. Time and time again this has proven useful and led to fast and powerful solutions to problems I was working on. In my experience, few of my peers in structural or other civil engineering think of using coding/scripting software, even when the alternatives are time consuming or mundane. Let me tell you why I think civil engineers should learn how to use Excel VBA in their careers.
+I've been an Excel enthusiast since late high school and taught myself how to use VBA near the end of college. I found this to be quite fun and rewarding, and so have kept an eye out for use cases in my job as a structural bridge engineer. Time and time again this has proven useful and led to fast and powerful solutions to problems I was working on. 
+
+In my experience, few of my peers in structural or other civil engineering think of using coding/scripting software, even when the alternatives are time consuming or mundane. Let me tell you why I think civil engineers should learn how to use Excel VBA in their careers.
 
 
 
@@ -55,7 +57,9 @@ Most importantly, learning to use Excel VBA is useful. I have come across many t
 
 All of these tasks can be made lightning fast and ridiculously easy with a little bit of VBA, and they are great ways to get started. 
 
-It doesn't have to end there though. As your skill in VBA grows, so do the opportunities to solve more complex problems. You can make sheets that serve as full programs where complex calculations are generated from user inputs, you can turn user inputs into input files for other software for efficient model iteration, and you can even interact with many software program directly with VBA. I plan to talk though some of the ways I've been able to use VBA in specific jobs in the future, but for a short preview, my favorite use for VBA lately is interacting directly with SAP2000. This allows me to auto-generate and iterate finite element models much faster, and in a much higher volume than I could do using SAP2000 manually.
+It doesn't have to end there though. As your skill in VBA grows, so do the opportunities to solve more complex problems. You can make sheets that serve as full programs where complex calculations are generated from user inputs, you can turn user inputs into input files for other software for efficient model iteration, and you can even interact with many software program directly with VBA. 
+
+I plan to talk though some of the ways I've been able to use VBA in specific jobs in the future, but for a short preview, my favorite use for VBA lately is interacting directly with SAP2000. This allows me to auto-generate and iterate finite element models much faster, and in a much higher volume than I could do using SAP2000 manually.
 
 ## It doesn't need to affect QAQC
 Lastly, I wanted to write a few words on checking calculations. This is one of the most vital parts of my job, and "checkability" is an import consideration when considering using software to perform calculations. I've come across a lot of fear toward using VBA (or other scripting/code) based on the belief that, because nobody else in the company knows how to use it, the code can't be checked. In my experience, this issue is easy to work around. If you put forth a bit of thought and planning in how you use VBA, your calculations should remain as checkable as ever. Maybe I will write a future post addressing this in more detail, but the main idea is that you:
