@@ -7,7 +7,7 @@ categories: finance
 
 One of my biggest focuses over the past year or two has been on personal finance. It's pretty much a staple subject of any self-improvement effort, and, as someone perhaps a bit too into spreadsheets, I've always been interested in my and my family's finances. 
 
-I was beginning to dig deeper into the subject and took a lot of inspiration from the FIRE community, which stands for "Financial Independence Retire Early". EAlthough I have no interest in retiring in the foreseeable future, the idea of having control over both your time and your finances (i.e., the "FI" side of that) has always held an appeal. 
+I was beginning to dig deeper into the subject and took a lot of inspiration from the FIRE community, which stands for "Financial Independence Retire Early". Although I have no interest in retiring in the foreseeable future, the idea of having control over both your time and your finances (i.e., the "FI" side of that) has always held an appeal. 
 
 
 
