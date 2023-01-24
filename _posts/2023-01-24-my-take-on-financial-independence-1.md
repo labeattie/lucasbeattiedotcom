@@ -91,7 +91,7 @@ $$n = \frac{ln(Fi/A+1)}{ln(1+i)}$$
 
 So as an example, a 40% savings rate and a 5% real return would plug into that final equation like so:
 
-$$\frac{ln(25(1-40\%)*5\%/40\%+1)}{ln(1-5\%)} = 21.6yrs$$
+$$\frac{ln(25(1-40\%)*5\%/40\%+1)}{ln(1+5\%)} = 21.6yrs$$
 
 In the follow-up article, which I will post a couple of weeks from now, I will first talk about some of the downsides of an all-out approach to achieving FI. Then, we'll go on to some other ways to frame the personal finance journey that harness incremental benefits of saving your money prior to reaching FI, as well as balancing saving for the future with living a gratifying life in the present. Thanks for reading!
 
