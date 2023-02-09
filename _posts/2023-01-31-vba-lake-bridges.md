@@ -1,5 +1,5 @@
 ---
-title: "Land Between the Lakes Bridges - VBA Case Study"
+title: "Land Between the Lakes Bridges with VBA"
 layout: post
 categories: excel, vba, engineering
 ---
