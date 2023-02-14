@@ -83,7 +83,7 @@ Even reducing the calc package to controlling members only and solely the sheets
 With all this infrastructure built for the project, when it came time to resubmit the final calcs with minor revisions, I was able to rerun the analyses and print all the calcs in a few hours.
 
 ## Conclusion
-This was an extremely rewarding project that pushed my VBA abilities to a new level. It's fun to see how slowly accruing more and more experience, one new thing at a time, eventually leads to a project more complex than you originally thought was possible. Learning the basics of VBA during my Master's degree years ago, and tinkering with SAP's OAPI several months ago were the basic building blocks that eventually turned into this. And now I catch myself rubbernecking at sign structures in each state we drive through on vacations!
+This was an extremely rewarding project that pushed my VBA abilities to a new level. It's fun to see how slowly accruing more and more experience, one new thing at a time, eventually leads to a project more complex than you originally thought was possible. Learning the basics of VBA during my Master's degree years ago, and tinkering with SAP's OAPI several months ago were the basic building blocks that eventually turned into this. And now I catch myself rubbernecking at sign structures in each state we drive through on vacations! Also wanted to give a shoutout and thank you to Ryan and Nicolo for their instrumental help pushing this project along. 
 
 
 [why_vba]: https://lucasbeattie.com/why-civil-engineers-vba/
