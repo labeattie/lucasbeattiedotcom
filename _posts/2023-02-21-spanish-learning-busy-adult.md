@@ -19,7 +19,7 @@ This article is an overview of my plans and strategies for improving my Spanish 
 ## My Background
 While, I am a beginner, I'm definitely not starting from zero. I took AP Spanish in high school, but didn't pass the AP exam. Listening skills were definitely my most glaring weakness. When I would lose track of the translation while someone was speaking, I'd usually never pick it back up. Because of that, I knew that listening was one of the main things I would need to work on.
 
-During this time in high school, I actually traveled to Peru and to Costa Rica, but my listening skills were so poor that I was totally unable to communicate and improve. I also didn't push onward and keep trying to talk to people despite any embarrassment from not understanding, which is something I like to think I would do today.
+During this time in high school, I actually traveled to Peru and to Puerto Rico, but my listening skills were so poor that I was totally unable to communicate and improve. I also didn't push onward and keep trying to talk to people despite any embarrassment from not understanding, which is something I like to think I would do today.
 
 I took a couple of Spanish classes in college as well, but I must have done poorly on the placement exam, because these classes felt completely remedial. Since then, I didn't think much about getting any better at Spanish, and over the next 9 years or so, I let my Spanish skills atrophy. So I have a long way to go, but have some basic vocabulary and understanding of sentence structure to build on.
 
