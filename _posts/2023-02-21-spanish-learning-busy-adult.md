@@ -10,7 +10,7 @@ In December of last year (2022), my wife and I took a vacation to Southern Spain
 
 ![spain](/assets/spain2.jpg){: width="700" }
 
-First, let's set the bar at the level I'm aiming for. In the next couple of years, I would love to take another trip to a Spanish-speaking country and be able to confidently speak to and understand native speakers while there. This is what many call "conversationally proficiency" (not to be confused with full fluency), and I think that's a very reasonable goal. Becoming okay with the idea that I won't sound excellent and will make many mistakes will allow me to reach that point much faster.
+First, let's set the bar at the level I'm aiming for. In the next couple of years, I would love to take another trip to a Spanish-speaking country and be able to confidently speak to and understand native speakers while there. This is what many call "conversational proficiency" (not to be confused with full fluency), and I think that's a very reasonable goal. Becoming okay with the idea that I won't sound excellent and will make many mistakes will allow me to reach that point much faster.
 
 I also hope to get to where I can listen to podcasts of native speakers speaking at normal speeds (i.e. not podcasts made for language learning) and watch Spanish language TV without subtitles. I think getting to that point would make it easy to maintain my skills, since it just involves consuming fun entertainment.
 
