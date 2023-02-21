@@ -12,12 +12,12 @@ In December of last year (2022), my wife and I took a vacation to Southern Spain
 
 First, let's set the bar at the level I'm aiming for. In the next couple of years, I would love to take another trip to a Spanish-speaking country and be able to confidently speak to and understand native speakers while there. This is what many call "conversational proficiency" (not to be confused with full fluency), and I think that's a very reasonable goal. Becoming okay with the idea that I won't sound excellent and will make many mistakes will allow me to reach that point much faster.
 
-I also hope to get to where I can listen to podcasts of native speakers speaking at normal speeds (i.e. not podcasts made for language learning) and watch Spanish language TV without subtitles. I think getting to that point would make it easy to maintain my skills, since it just involves consuming fun entertainment.
+I also hope to get to where I can listen to podcasts of native speakers speaking at normal speeds (i.e., not podcasts made for language learning) and watch Spanish language TV without subtitles. I think getting to that point would make it easy to maintain my skills, since it just involves consuming fun entertainment.
 
 This article is an overview of my plans and strategies for improving my Spanish this year. In two weeks, I'll post a follow-up article about my word list I'm using for practice, as well as the verb conjugation practice Excel sheet I made (using VBA of course!). Both will be available for download there. Okay, let's jump in!
 
 ## My Background
-While, I am a beginner, I'm definitely not starting from zero. I took AP Spanish in high school, but didn't pass the AP exam. Listening skills were definitely my most glaring weakness. When I would lose track of the translation while someone was speaking, I'd usually never pick it back up. Because of that, I knew that listening was one of the main things I would need to work on.
+While I am a beginner, I'm definitely not starting from zero. I took AP Spanish in high school, but didn't pass the AP exam. Listening skills were definitely my most glaring weakness. When I would lose track of the translation while someone was speaking, I'd usually never pick it back up. Because of that, I knew that listening was one of the main things I would need to work on.
 
 During this time in high school, I actually traveled to Peru and to Puerto Rico, but my listening skills were so poor that I was totally unable to communicate and improve. I also didn't push onward and keep trying to talk to people despite any embarrassment from not understanding, which is something I like to think I would do today.
 
