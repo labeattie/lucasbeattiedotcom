@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0544998"
-     inkscape:cx="383.5942"
-     inkscape:cy="577.52501"
+     inkscape:cx="579.8958"
+     inkscape:cy="939.78208"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -108,7 +108,7 @@
        cy="270.21988"
        rx="1.0590254"
        ry="1.0590255"
-       inkscape:export-filename="tension.svg"
+       inkscape:export-filename="4_times_yield.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -347,14 +347,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#b5b5b5;stroke:none;stroke-width:0.529;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="92.299797"
-       y="234.77135"
+       x="94.945633"
+       y="234.24219"
        id="text16673-5"><tspan
          sodipodi:role="line"
          id="tspan16671-8"
          style="font-size:3.175px;stroke-width:0.529"
-         x="92.299797"
-         y="234.77135"
+         x="94.945633"
+         y="234.24219"
          dy="0 -6.7852807e-10">ε<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan16677-8">cu</tspan>=0.003</tspan></text>
@@ -437,5 +437,28 @@
          style="stroke:none;stroke-width:0.207"
          x="117.86288"
          y="237.81609">c</tspan></text>
+    <path
+       style="fill:#b5b5b5;stroke:#b5b5b5;stroke-width:0.207;stroke-dasharray:0.207, 0.207;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 84.158864,232.25927 h -4.38487"
+       id="path2849-3-3-0-4-3" />
+    <path
+       style="fill:#b5b5b5;stroke:#b5b5b5;stroke-width:0.207;stroke-dasharray:0.207, 0.207;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 84.158864,270.27599 H 52.417617"
+       id="path2849-3-3-0-8-3-1" />
+    <path
+       style="fill:#b5b5b5;stroke:#b5b5b5;stroke-width:0.207;stroke-dasharray:0.207, 0.207;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 84.158864,232.25927 V 270.1727"
+       id="path18719-4-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#b5b5b5;stroke:#b5b5b5;stroke-width:0.207;stroke-dasharray:0.207, 0.207;stroke-dashoffset:0;stroke-opacity:1"
+       x="89.124603"
+       y="252.99199"
+       id="text18723-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan18721-7-2"
+         style="stroke:none;stroke-width:0.207"
+         x="89.124603"
+         y="252.99199">d=13&quot;</tspan></text>
   </g>
 </svg>
