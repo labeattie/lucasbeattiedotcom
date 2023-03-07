@@ -1,0 +1,3600 @@
+diferente	different	adjective
+el pueblo	people/town	noun
+el tiempo	time	noun
+el año	year	noun
+la cosa	thing	noun
+ser	to be (essential/permanent quality)	verb
+el camino	way	noun
+el día	day	noun
+el hombre	man	noun
+yo	i	extras
+el estado	state	noun
+usado	used	adjective
+el lote	lot(of land)	noun
+importante	important	adjective
+la mujer	woman	noun
+todos	every	adjective
+largo	long	adjective
+el país	country	noun
+disponible	available	adjective
+la vida	life	noun
+la cuestión / la pregunta	question	noun
+el presidente	president	noun
+el niño	child	noun
+aquí	here	adverb
+popular	popular	adjective
+la semana	week	noun
+el mundo	world	noun
+su	his	extras
+capaz	able	adjective
+básico	basic	adjective
+conocido	known	adjective
+el tipo	kind	noun
+el caso	case	noun
+varios	various	adjective
+el problema	problem	noun
+el hecho	fact	noun
+la familia	family	noun
+la historia	story	noun
+el punto	point	noun
+allí	there	adverb
+el gobierno	government	noun
+el dinero	money	noun
+que	that	extras
+haber	to have (to do something, auxiliary verb)	verb
+la cuestión	issue	noun
+mayor	older	adjective
+la parte	part	noun
+difícil	difficult	adjective
+él	he	extras
+para	for	extras
+más antiguo	oldest	adjective
+estar	to be (health, location, state)	verb
+varios	several	adjective
+la mañana	morning	noun
+el chico	guy	noun
+el número	number	noun
+el trabajo	job	noun
+la noche	night	noun
+en	on	extras
+unido	united	adjective
+el derecho	right	noun
+la escuela	school	noun
+son	are	extras
+el lugar	place	noun
+la guerra	war	noun
+el niño	kid	noun
+el mes	month	noun
+el libro	book	noun
+la hora	hour	noun
+con	with	extras
+menor	lesser	adjective
+histórico	historical	adjective
+más pequeño	littler	adjective
+caliente	hot	adjective
+el show	show	noun
+ellos	they	extras
+la policía	police	noun
+el programa	program	noun
+el partido	party / game	noun
+la ley	law	noun
+la palabra	word	noun
+tener	to have	verb
+hacer	to do, make	verb
+más pequeño	littlest	adjective
+la persona	person	noun
+el hogar	home	noun
+el negocio	business	noun
+útil	useful	adjective
+mental	mental	adjective
+asustado/tener miedo	scared	adjective
+en	at	extras
+adicional	additional	adjective
+el amigo	friend	noun
+la empresa	company	noun
+el lado	side	noun
+el impuesto	tax	noun
+el demócrata	democrat	noun
+poder	to be able, can	verb
+emocional	emotional	adjective
+antiguo	old	adjective
+el grupo	group	noun
+el momento	moment	noun
+la ruptura	break	noun
+la idea	idea	noun
+el miembro	member	noun
+el sistema de	system	noun
+el minuto	minute	noun
+social	social	adjective
+la razón	reason	noun
+la campaña	campaign	noun
+la obra	work	noun
+la nación	nation	noun
+el congreso	congress	noun
+político	political	adjective
+la madre	mother	noun
+similar	similar	adjective
+saludable	healthy	adjective
+la fuerza	force	noun
+financiero	financial	adjective
+la salud	health	noun
+la parte de atrás	back	noun
+la zona	area	noun
+médico	medical	adjective
+decir	to say, tell	verb
+este	this	extras
+el nombre	name	noun
+el informe	report	noun
+segundo	second	adjective
+desde	from	extras
+la mano	hand	noun
+la línea	line	noun
+ir	to go	verb
+tradicional	traditional	adjective
+federal	federal	adjective
+entero	entire	adjective
+más a la derecha	rightmost	adjective
+ver	to see	verb
+cerca	near	adverb
+fuerte	strong	adjective
+el fin	end	noun
+la corte	court	noun
+el cuidado	care	noun
+la pareja	couple	noun
+por	by	extras
+actual	actual	adjective
+significativo	significant	adjective
+la casa	house	noun
+la americana	american	noun
+el padre	father	noun
+exitoso	successful	adjective
+eléctrico	electrical	adjective
+costoso	expensive	adjective
+embarazada	pregnant	adjective
+la situación	situation	noun
+inteligente	intelligent	adjective
+interesante	interesting	adjective
+dar	to give	verb
+pobre	poor	adjective
+el coche	car	noun
+pero	but	extras
+saber	to know (information)	verb
+feliz	happy	adjective
+qué	what	extras
+el padre	parent	noun
+algunos	some	extras
+la administración	administration	noun
+la droga	drug	noun
+la ciudad	city	noun
+querer	to want, love	verb
+el sentido	sense	noun
+la política	policy	noun
+la oficina	office	noun
+la decisión	decision	noun
+responsable	responsible	adjective
+el poder	power	noun
+delante	in front	adverb
+lindo	cute	adjective
+temprano	early	adjective
+el plan	plan	noun
+útil	helpful	adjective
+encima	on top	adverb
+reciente	recent	adjective
+el líder	leader	noun
+es	is	extras
+la información	information	noun
+la elección	election	noun
+dispuesto	willing	adjective
+lo	it	extras
+usted	you	extras
+la película	movie	noun
+la muerte	death	noun
+el aire	air	noun
+la llamada	call	noun
+la comunidad	community	noun
+llegar	to arrive, come, reach	verb
+bonito	nice	adjective
+la mirada	look	noun
+económico	economic	adjective
+la evidencia	evidence	noun
+la chica	girl	noun
+maravilloso	wonderful	adjective
+imposible	impossible	adjective
+el médico	doctor	noun
+el voto	vote	noun
+el video	video	noun
+probable	likely	adjective
+la imagen	picture	noun
+grave	serious	adjective
+gigante	huge	adjective
+extraño	rare	adjective
+técnico	technical	adjective
+la habitación	room	noun
+la economía	economy	noun
+el teléfono	phone	noun
+la historia	history	noun
+típico	typical	adjective
+el tipo	sort	noun
+el niño	boy	noun
+competitivo	competitive	adjective
+el crimen	crime	noun
+el proceso de	process	noun
+crítico	critical	adjective
+la esposa	wife	noun
+la música	music	noun
+el agua	water	noun
+electrónico	electronic	adjective
+pasar	to pass, to spend (time), to happen	verb
+o	or	extras
+inmediato	immediate	adjective
+el servicio	service	noun
+consciente	aware	adjective
+el registro	record	noun
+educativo	educational	adjective
+negro	black	adjective
+la seguridad	security	noun
+tenido	had	extras
+deber	to owe, must, should, ought to	verb
+ambiental	environmental	adjective
+global	global	adjective
+legal	legal	adjective
+poner	to put, place, set	verb
+importante	relevant	adjective
+dentro	inside	adverb
+la charla	talk	noun
+la mente	mind	noun
+la cabeza	head	noun
+preciso	accurate	adjective
+capaz	capable	adjective
+la	the	extras
+el candidato	candidate	noun
+peligroso	dangerous	adjective
+el funcionario	official	noun
+dramático	dramatic	adjective
+la cámara	camera	noun
+mitad	half	adjective
+el estudiante	student	noun
+el ataque	attack	noun
+eficiente	efficient	adjective
+tercera	third	adjective
+la oportunidad	chance	noun
+el juego	game	noun
+parecer	to seem, appear	verb
+poderoso	powerful	adjective
+el bebé	baby	noun
+extranjero	foreign	adjective
+hambriento	hungry	adjective
+quedar	to stay, remain	verb
+el sur	south	noun
+de	of	extras
+central	central	adjective
+el cambio	change	noun
+adelante	ahead	adverb
+el juicio	trial	noun
+el cuerpo	body	noun
+el mercado	market	noun
+las cosas	stuff	noun
+el interés	interest	noun
+el arma	weapon	noun
+práctico	practical	adjective
+el corazón	heart	noun
+a	to	extras
+el hijo	son	noun
+y	and	extras
+el equipo	team	noun
+psicológico	psychological	adjective
+la ciudad	town	noun
+severo	severe	adjective
+arriba	up	adverb
+la televisión	television	noun
+la voluntad	will	noun
+apropiado	suitable	adjective
+la tropa	troop	noun
+el juez	judge	noun
+creer	to believe	verb
+numeroso	numerous	adjective
+la acción	action	noun
+la respuesta	answer	noun
+hablar	to speak	verb
+suficiente	sufficient	adjective
+la posición	position	noun
+la vista	view	noun
+la diferencia	difference	noun
+la comida	food	noun
+la hija	daughter	noun
+la carrera	race	noun
+un	a	extras
+el acuerdo	deal	noun
+inusual	unusual	adjective
+la calle	street	noun
+el precio	price	noun
+el mensaje	message	noun
+el control	control	noun
+coherente	consistent	adjective
+llevar	to carry, bring	verb
+cultural	cultural	adjective
+el debate	debate	noun
+el oficial	officer	noun
+la película	film	noun
+existente	existing	adjective
+famoso	famous	adjective
+el nivel	level	noun
+el esfuerzo	effort	noun
+la relación	relationship	noun
+el corresponsal	correspondent	noun
+el terreno	ground	noun
+la pieza	piece	noun
+el marido	husband	noun
+puro	pure	adjective
+el presupuesto	budget	noun
+en	in	extras
+el jurado	jury	noun
+el reportero	reporter	noun
+el fin de semana	weekend	noun
+la materia	matter	noun
+la edad	age	noun
+atemorizado	afraid	adjective
+la pistola	gun	noun
+la paz	peace	noun
+obvio	obvious	adjective
+cuidado	careful	adjective
+el asesinato	murder	noun
+último	latter	adjective
+infeliz	unhappy	adjective
+aceptable	acceptable	adjective
+el papel	role	noun
+agresivo	aggressive	adjective
+aburrido	boring	adjective
+distinto	distinct	adjective
+la investigación	investigation	noun
+dejar	to leave, abandon, to let, allow	verb
+la experiencia	experience	noun
+el hospital	hospital	noun
+el ojo	eye	noun
+el director	director	noun
+oriental	eastern	adjective
+nos	we	extras
+el futuro	future	noun
+la cara	face	noun
+el aceite	oil	noun
+el resultado	result	noun
+el público	public	noun
+lógico	logical	adjective
+el abogado	lawyer	noun
+razonable	reasonable	adjective
+la encuesta	poll	noun
+seguir	to follow, continue	verb
+la segunda	second	noun
+malo	bad	adjective
+lata	can	extras
+otros	other	extras
+estricto	strict	adjective
+la oportunidad	opportunity	noun
+la industria	industry	noun
+el hermano	brother	noun
+la declaración	statement	noun
+administrativo	administrative	adjective
+automático	automatic	adjective
+el fuego	fire	noun
+eran	were	extras
+civil	civil	adjective
+el amor	love	noun
+anterior	former	adjective
+equivocado	wronger	adjective
+la tasa	rate	noun
+el efecto	effect	noun
+masivo	massive	adjective
+que	which	extras
+peor	wrongest	adjective
+la canción	song	noun
+el evento	event	noun
+la carga	charge	noun
+el apoyo	support	noun
+la radio	radio	noun
+encontrar	to find, encounter	verb
+del sur	southern	adjective
+el edificio	building	noun
+su	their	extras
+el banco	bank	noun
+si	if	extras
+injusto	unfair	adjective
+visible	visible	adjective
+viva	alive	adjective
+enojado	angry	adjective
+la víctima	victim	noun
+la puerta	door	noun
+desesperado	desperate	adjective
+la entrevista	interview	noun
+la escena	scene	noun
+el resto	rest	noun
+emocionante	exciting	adjective
+amigable	friendly	adjective
+arriba	above	adverb
+la prensa	press	noun
+llamar	to call, to name	verb
+afortunado	lucky	adjective
+la atención	attention	noun
+realista	realistic	adjective
+la elección	choice	noun
+lo siento	sorry	adjective
+feo	ugly	adjective
+el discurso	speech	noun
+el paciente	patient	noun
+improbable	unlikely	adjective
+la verdad	truth	noun
+adentro	inside	adverb
+la carretera	road	noun
+moderno	modern	adjective
+acá	here	adverb
+el término	term	noun
+el sitio	site	noun
+el trabajador	worker	noun
+el profesor	professor	noun
+la letra	letter	noun
+ansioso	anxious	adjective
+la reforma	reform	noun
+lo hará	will	extras
+integral	comprehensive	adjective
+cómo	how	extras
+curioso	curious	adjective
+la preocupación	concern	noun
+venir	to come	verb
+pensar	to think	verb
+impresionante	impressive	adjective
+salir	to leave, go out	verb
+la gente	folk	noun
+informal	informal	adjective
+el sexo	sex	noun
+el estudio	study	noun
+la universidad	college	noun
+interno	inner	adjective
+el votante	voter	noun
+agradable	pleasant	adjective
+sexual	sexual	adjective
+allá	there	adverb
+repentino	sudden	adjective
+lejos	far	adverb
+horrible	terrible	adjective
+dicho	said	extras
+incapaz	unable	adjective
+la pared	wall	noun
+débil	weak	adjective
+la noche	evening	noun
+de madera	wooden	adjective
+detrás	behind	adverb
+la reunión	meeting	noun
+la voz	voice	noun
+más serio	seriouser	adjective
+dormido	asleep	adjective
+la audiencia	audience	noun
+la violencia	violence	noun
+la regla	rule	noun
+más serio	seriousest	adjective
+seguro	confident	adjective
+la estrella	star	noun
+volver	to return, go back	verb
+consciente	conscious	adjective
+la prueba	test	noun
+la educación	education	noun
+el problema	trouble	noun
+decente	decent	adjective
+el riesgo	risk	noun
+principal	prime	adjective
+avergonzado	embarrassed	adjective
+industrial	industrial	adjective
+la prisión	prison	noun
+culpable	guilty	adjective
+el invitado	guest	noun
+solitario	lonely	adjective
+loco	mad	adjective
+la clase	class	noun
+nervioso	nervous	adjective
+raro	odd	adjective
+notable	remarkable	adjective
+la sociedad	society	noun
+sustancial	substantial	adjective
+el soldado	soldier	noun
+el plano	plane	noun
+sospechoso	suspicious	adjective
+alto	tall	adjective
+diminuto	tiny	adjective
+un	an	extras
+la cantidad	amount	noun
+más	more	adjective
+la ayuda	help	noun
+el costo	cost	noun
+la autoridad	authority	noun
+el pie	foot	noun
+el período	period	noun
+la sensación	feeling	noun
+debajo	underneath	adverb
+la etapa de	step	noun
+la causa	cause	noun
+militar	military	adjective
+tomar	to take, drink	verb
+alguno	some	adjective
+soviético	soviet	adjective
+hace	does	extras
+la cinta	tape	noun
+la amenaza	threat	noun
+la opinión	opinion	noun
+tres	three	extras
+la organización	organization	noun
+también	also	extras
+deletrear	spell	extras
+uno	one	adjective
+el tipo de	type	noun
+fuera	outside	adverb
+la conversación	conversation	noun
+todas	all	adjective
+la enfermedad	disease	noun
+muchos	many	adjective
+mayoría	most	adjective
+la operación	operation	noun
+conocer	to know (people, places)	verb
+conciencia	awarer	adjective
+el cáncer	cancer	noun
+la revista	magazine	noun
+el gobernador	governor	noun
+otro	other	adjective
+la presión	pressure	noun
+consciente	awarest	adjective
+la mayoría	majority	noun
+La investigación	research	noun
+el carácter	character	noun
+semejante	such	adjective
+la estación	station	noun
+vivir	to live	verb
+la crisis	crisis	noun
+el experto	expert	noun
+la sangre	blood	noun
+incluso	even	adjective
+sentir	to feel, regret	verb
+nuevo	new	adjective
+justo	just	adjective
+el presidente	chairman	noun
+el argumento	argument	noun
+la lista	list	noun
+tratar	to treat, handle	verb
+el perro	dog	noun
+mirar	to watch, look at	verb
+el ordenador	computer	noun
+el principio	beginning	noun
+el seguro	insurance	noun
+el campo	field	noun
+contar	to count, relate, tell	verb
+la hermana	sister	noun
+el error	mistake	noun
+el jugador	player	noun
+atrás	behind	adverb
+la energía	energy	noun
+el documento	paper	noun
+el espacio	space	noun
+la tienda	store	noun
+el acuerdo	agreement	noun
+abajo	down	adverb
+bueno	good	adjective
+la responsabilidad	responsibility	noun
+la dama	lady	noun
+el orden	order	noun
+el verano	summer	noun
+empezar	to begin, start	verb
+el producto	product	noun
+esperar	to wait for, to hope	verb
+alguna	any	adjective
+añadir	add	extras
+debe	must	extras
+el valor	value	noun
+cada	each	adjective
+mucho	much	adjective
+propio	own	adjective
+excelente	great	adjective
+otro	another	adjective
+mismo	same	adjective
+pocos	few	adjective
+la acción	stock	noun
+la inteligencia	intelligence	noun
+el profesor	teacher	noun
+buscar	to search for, look for	verb
+tal	such	extras
+siga	follow	extras
+la agencia	agency	noun
+el comercio	trade	noun
+gratis	free	adjective
+la conferencia	conference	noun
+considerable	considerable	adjective
+derecho	right	adjective
+la célula	cell	noun
+la iglesia	church	noun
+el comentario	comment	noun
+todavía	still	adjective
+la fuente	source	noun
+el pasado	past	noun
+el corte	cut	noun
+mejor	best	adjective
+alemán	german	adjective
+el pensamiento	thought	noun
+existir	to exist	verb
+público	public	adjective
+por qué	why	extras
+el crédito	credit	noun
+la esperanza	hope	noun
+el signo	sign	noun
+la carrera	career	noun
+humano	human	adjective
+el matrimonio	marriage	noun
+la condición	condition	noun
+el testigo	witness	noun
+la tecnología	technology	noun
+hombres	men	extras
+la etapa de	stage	noun
+el personal	staff	noun
+abajo	below	adverb
+se fue	went	extras
+el brazo	arm	noun
+la misión	mission	noun
+necesitará	need	extras
+el arte	art	noun
+nosotros	us	extras
+el actor	actor	noun
+la batalla	battle	noun
+la parte superior	top	noun
+el ciudadano	citizen	noun
+el autor	author	noun
+de nuevo	again	extras
+ambas cosas	both	adjective
+local	local	adjective
+la reacción	reaction	noun
+por supuesto	sure	adjective
+el caballero	gentleman	noun
+el liderazgo	leadership	noun
+el miedo	fear	noun
+mejor	better	adjective
+general	general	adjective
+específico	specific	adjective
+azul	blue	adjective
+el ejemplo	example	noun
+afuera	outside	adverb
+suficiente	enough	adjective
+largo	long	adjective
+hoy	today	adverb
+cualquier	any	extras
+el idioma	language	noun
+pequeña	small	adjective
+básico	essential	adjective
+la necesidad	need	noun
+la justicia	justice	noun
+la discusión	discussion	noun
+la frontera	border	noun
+menos	less	adjective
+el animal	animal	noun
+alto	high	adjective
+cierto	certain	adjective
+el detalle	detail	noun
+entrar	to enter, go in, come in	verb
+pequeña	little	adjective
+la respuesta	response	noun
+común	common	adjective
+la red	network	noun
+próximo	next	adjective
+el movimiento	movement	noun
+el uso	use	noun
+el macho	male	noun
+simple	simple	adjective
+trabajar	to work	verb
+la capital	capital	noun
+la audiencia	hearing	noun
+la norma	standard	noun
+el beneficio	benefit	noun
+la tabla	table	noun
+el tratamiento	treatment	noun
+donde	where	extras
+el agente	agent	noun
+la tarjeta	card	noun
+escribir	to write	verb
+el disparo	shot	noun
+el tablero	board	noun
+duro	hard	adjective
+pasado	past	adjective
+la realidad	reality	noun
+el señor	sir	noun
+perder	to lose	verb
+la tierra	land	noun
+el proyecto	project	noun
+la luz	light	noun
+grande	big	adjective
+producir	to produce	verb
+ocurrir	to occur, happen	verb
+la imagen	image	noun
+posible	possible	adjective
+el siglo	century	noun
+particular	particular	adjective
+entender	to understand	verb
+verdadero	real	adjective
+nuclear	nuclear	adjective
+la página	page	noun
+el éxito	success	noun
+el sonido	sound	noun
+el impacto	impact	noun
+el dolor	pain	noun
+importante	major	adjective
+la temporada	season	noun
+el individuo	individual	noun
+mañana	tomorrow	adverb
+el deporte	sport	noun
+el estudio	studio	noun
+la década	decade	noun
+el desafío	challenge	noun
+el sueño	dream	noun
+el periódico	newspaper	noun
+el piso	floor	noun
+la lucha	fight	noun
+la seguridad	safety	noun
+personal	personal	adjective
+el acto	act	noun
+actual	current	adjective
+el viaje	trip	noun
+el curso	course	noun
+la posibilidad	possibility	noun
+la libertad	freedom	noun
+el fondo	fund	noun
+el asiento	seat	noun
+anoche	last night	adverb
+regional	regional	adjective
+la bomba	bomb	noun
+pedir	to request, ask for	verb
+recientemente	recently	adverb
+la forma	form	noun
+izquierda	left	adjective
+nacional	national	adjective
+el ejecutivo	executive	noun
+menos	least	adjective
+el ministro	minister	noun
+sólo	only	extras
+el déficit	deficit	noun
+el desarrollo	development	noun
+el vuelo	flight	noun
+el secretario	secretary	noun
+el comité	committee	noun
+el consumidor	consumer	noun
+la roca	rock	noun
+la figura	figure	noun
+el sujeto	subject	noun
+la cultura	culture	noun
+natural	natural	adjective
+físico	physical	adjective
+pequeño	short	adjective
+el cabello	hair	noun
+recibir	to receive, to welcome, greet	verb
+ultimo	last	adjective
+único	single	adjective
+la cobertura	coverage	noun
+la pérdida	loss	noun
+el papá	dad	noun
+la nota	note	noun
+la actividad	activity	noun
+buena	good	extras
+me	me	extras
+recordar	to remember, remind	verb
+el objetivo	goal	noun
+la opción	option	noun
+individual	individual	adjective
+el gas	gas	noun
+brevemente	briefly	adverb
+jefe	chief	adjective
+la región	region	noun
+la población	population	noun
+la capacidad	ability	noun
+la resolución	resolution	noun
+el empleado	employee	noun
+el cerebro	brain	noun
+el político	politician	noun
+principal	main	adjective
+nuestro	our	extras
+el centro	middle	noun
+terminar	to finish, end	verb
+la tormenta	storm	noun
+diariamente	daily	adverb
+potencial	potential	adjective
+la generación	generation	noun
+el crítico	critic	noun
+el ventilador	fan	noun
+el científico	scientist	noun
+profesional	professional	adjective
+internacional	international	adjective
+más bajo	lower	adjective
+el objetivo	target	noun
+el campamento	camp	noun
+la tarde	afternoon	noun
+la dirección	direction	noun
+la ciencia	science	noun
+todavía	still	adverb
+abierto	open	adjective
+el periodista	journalist	noun
+a través de	through	extras
+el grado	degree	noun
+el asunto	affair	noun
+el daño	damage	noun
+de acuerdo a	according	adjective
+la estrategia	strategy	noun
+el factor	factor	noun
+la planta	plant	noun
+la democracia	democracy	noun
+alternativa	alternative	adjective
+especial	special	adjective
+laboral	working	adjective
+más poderoso	powerfuler	adjective
+la duda	doubt	noun
+la solución	solution	noun
+nunca	never	adverb
+el gasto	spending	noun
+la formación	training	noun
+el abuso	abuse	noun
+ocasionalmente	occasionally	adverb
+verdadero	TRUE	adjective
+permitir	to permit, allow	verb
+entero	whole	adjective
+el peligro	danger	noun
+aparecer	to appear, show up	verb
+el medio ambiente	environment	noun
+la memoria	memory	noun
+la naturaleza	nature	noun
+conseguir	to get, obtain	verb
+el material	material	noun
+claro	clear	adjective
+el documento	document	noun
+ahora	now	adverb
+los ingresos	income	noun
+el analista	analyst	noun
+el juego	play	noun
+la guardia	guard	noun
+el hotel	hotel	noun
+el editor	editor	noun
+el misil	missile	noun
+seco	dry	adjective
+fácil	easy	adjective
+el accidente	accident	noun
+el propósito	purpose	noun
+doméstico	domestic	adjective
+el escritor	writer	noun
+sólo	just	extras
+frío	cold	adjective
+comercial	commercial	adjective
+la emergencia	emergency	noun
+el crecimiento	growth	noun
+la cama	bed	noun
+lleno	full	adjective
+gran	great	extras
+el bienestar	welfare	noun
+el adulto	adult	noun
+la fe	faith	noun
+ayer	yesterday	adverb
+comenzar	to begin, start, commence	verb
+bajo	low	adjective
+la propuesta	proposal	noun
+primario	primary	adjective
+anteayer	the day before yesterday	adverb
+el modelo	model	noun
+el ejército	army	noun
+el incidente	incident	noun
+la caja	box	noun
+servir	to serve	verb
+valer	worth	adjective
+la multitud	crowd	noun
+el respeto	respect	noun
+el departamento	department	noun
+el acceso	access	noun
+la fecha	date	noun
+el jefe	chief	noun
+necesario	necessary	adjective
+el clima	weather	noun
+el aeropuerto	airport	noun
+positivo	positive	adjective
+la máquina	machine	noun
+la ventana	window	noun
+el orden del día	agenda	noun
+el consejo	advice	noun
+la fiscalía	prosecution	noun
+previamente	previously	adverb
+sacar	to take out, stick out	verb
+actualmente	currently	adverb
+necesitar	to need, require	verb
+el conflicto	conflict	noun
+la caída	fall	noun
+el piloto	pilot	noun
+la práctica	practice	noun
+la pista	track	noun
+el propietario	owner	noun
+mantener	to maintain, get	verb
+regalo	present	adjective
+resultar	to turn out (to be)	verb
+ser distinto	differ	extras
+el aumento	increase	noun
+la legislación	legislation	noun
+el árbol	tree	noun
+a su vez,	turn	extras
+la deuda	debt	noun
+significará	mean	extras
+el enemigo	enemy	noun
+cerca	close	adjective
+leer	to read	verb
+creativo	creative	adjective
+el camión	truck	noun
+el plomo	lead	noun
+la convención	convention	noun
+la ayuda	aid	noun
+el suicidio	suicide	noun
+más	further	adjective
+permanentemente	permanently	adverb
+frecuentemente	frequently	adverb
+la calidad	quality	noun
+la conservadora	conservative	noun
+el tamaño	size	noun
+verde	green	adjective
+la cuenta	account	noun
+el placer	pleasure	noun
+la institución	institution	noun
+ya	already	adverb
+la línea aérea	airline	noun
+más lejos	furthest	adjective
+caer	to fall	verb
+el peso	weight	noun
+tarde	late	adjective
+lo más lejano	farthermost	adjective
+encajar	fit	adjective
+el enfoque	approach	noun
+más lejano	furthermost	adjective
+contento	glad	adjective
+viejo	old	extras
+la cirugía	surgery	noun
+adecuado	proper	adjective
+misma	same	extras
+del norte	northern	adjective
+las vacaciones	holiday	noun
+el inicio	start	noun
+siempre	always	adverb
+complejo	complex	adjective
+ella	she	extras
+contenido	content	adjective
+religioso	religious	adjective
+la victoria	victory	noun
+el distrito	district	noun
+cambiar	to change	verb
+la relación	relation	noun
+la búsqueda	search	noun
+la tripulación	crew	noun
+el panel	panel	noun
+la coalición	coalition	noun
+el movimiento	move	noun
+el paquete	package	noun
+el cheque	check	noun
+adeudado	due	adjective
+la minoría	minority	noun
+presentar	to introduce	verb
+la unidad	unit	noun
+eficaz	effective	adjective
+la bolsa	bag	noun
+medio	middle	adjective
+la sorpresa	surprise	noun
+crear	to create, to make	verb
+todo	all	extras
+el foco	focus	noun
+regular	regular	adjective
+rápido	fast	adjective
+la circunstancia	circumstance	noun
+el productor	producer	noun
+la inversión	investment	noun
+la pelota	ball	noun
+el colega	colleague	noun
+el recurso	resource	noun
+la sentencia	judgment	noun
+el fondo	background	noun
+la unión	union	noun
+independiente	independent	adjective
+la dirección	address	noun
+el controlador	driver	noun
+original	original	adjective
+ancho	wide	adjective
+el héroe	hero	noun
+conservador	conservative	adjective
+el medicamento	medicine	noun
+el representante	representative	noun
+el vehículo	vehicle	noun
+el comandante	commander	noun
+el artista	artist	noun
+hermosa	beautiful	adjective
+completo	complete	adjective
+el alcalde	mayor	noun
+la carrera	run	noun
+el barco	ship	noun
+activo	active	adjective
+muy	very	adjective
+abrir	to open	verb
+negativo	negative	adjective
+la teoría	theory	noun
+la pantalla	screen	noun
+rural	rural	adjective
+hay	there	extras
+la lección	lesson	noun
+el residente	resident	noun
+seguro	safe	adjective
+el socio	partner	noun
+el bar	bar	noun
+el billete	ticket	noun
+visual	visual	adjective
+cuando	when	extras
+su	your	extras
+equivocado	wrong	adjective
+atrás	ago	adjective
+considerar	to consider	verb
+el desastre	disaster	noun
+oír	to hear	verb
+el desempeño	performance	noun
+promedio	average	adjective
+el aficionado	supporter	noun
+el asesino	killer	noun
+la negociación	negotiation	noun
+rápido	quick	adjective
+acerca	about	extras
+el mar	sea	noun
+el viento	wind	noun
+acabar	to finish, end	verb
+el zapato	shoe	noun
+el secreto	secret	noun
+listo	ready	adjective
+la tragedia	tragedy	noun
+el regalo	gift	noun
+derecho	straight	adjective
+la gira	tour	noun
+convertir	to convert, change	verb
+blanco	white	adjective
+el gestor	manager	noun
+la banda	band	noun
+el nacimiento	birth	noun
+semanalmente	weekly	adverb
+el anfitrión	host	noun
+ligero	light	adjective
+el préstamo	loan	noun
+ganar	to win, gain, earn, get, acquire	verb
+la alegación	allegation	noun
+el ganador	winner	noun
+directo	direct	adjective
+excelente	excellent	adjective
+muy	very	adverb
+formar	to form, shape, fashion, make	verb
+encantador	lovely	adjective
+la religión	religion	noun
+el artículo	article	noun
+la sesión	session	noun
+el ser	being	noun
+la medida	extent	noun
+extra	extra	adjective
+cuatro	fourth	adjective
+mucho	a lot	adverb
+el contrato	contract	noun
+júnior	junior	adjective
+bastante	pretty	adjective
+la sentencia	sentence	noun
+único	unique	adjective
+la medida	measure	noun
+el diputado	deputy	noun
+traer	to bring, to get, fetch, to carry	verb
+ellos	them	extras
+clásico	classic	adjective
+la confianza	confidence	noun
+final	final	adjective
+el infierno	hell	noun
+el alivio	relief	noun
+democrático	democratic	adjective
+general	overall	adjective
+la perspectiva	perspective	noun
+La ventaja	advantage	noun
+privado	private	adjective
+haría	would	extras
+el escándalo	scandal	noun
+separado	separate	adjective
+la pierna	leg	noun
+el restaurante	restaurant	noun
+éstos	these	extras
+la cena	dinner	noun
+occidental	western	adjective
+solo	alone	adjective
+el cliente	client	noun
+el fracaso	failure	noun
+partir	to divide, to leave	verb
+el trimestre	quarter	noun
+morir	to die	verb
+familiar	familiar	adjective
+el elemento	element	noun
+oficial	official	adjective
+perfecto	perfect	adjective
+la reclamación	claim	noun
+la propiedad	property	noun
+la versión	version	noun
+su	her	extras
+el intento	attempt	noun
+el autobús	bus	noun
+aceptar	to accept, approve, to agree to	verb
+científico	scientific	adjective
+brillante	bright	adjective
+el cliente	customer	noun
+la apelación	appeal	noun
+amplio	broad	adjective
+la libra	pound	noun
+cómodo	comfortable	adjective
+la protección	protection	noun
+piso	flat	adjective
+rico	rich	adjective
+menos	less	adverb
+cálido	warm	adjective
+él	him	extras
+el gen	gene	noun
+dos	two	extras
+realizar	to achieve, attain, accomplish	verb
+joven	young	adjective
+suponer	to suppose	verb
+pesado	heavy	adjective
+la piedra	stone	noun
+la oposición	opposition	noun
+valioso	valuable	adjective
+correcto	correct	adjective
+el apartamento	apartment	noun
+el frente	front	noun
+comprender	to understand, comprehend	verb
+principal	leading	adjective
+la hembra	female	noun
+el prisionero	prisoner	noun
+el negro	black	noun
+lento	slow	adjective
+la pandilla	gang	noun
+el principio	principle	noun
+el aliado	ally	noun
+limpio	clean	adjective
+nuevo	fresh	adjective
+normal	normal	adjective
+el asesor	adviser	noun
+secreto	secret	adjective
+tanto	so much	adverb
+la visita	visit	noun
+el pájaro	bird	noun
+difícil	tough	adjective
+marrón	brown	adjective
+barato	cheap	adjective
+algo	somewhat	adverb
+profundo	deep	adjective
+diariamente	daily	adjective
+el soporte	stand	noun
+la comunicación	communication	noun
+objetivo	objective	adjective
+el barco	boat	noun
+liberal	liberal	adjective
+seguro	secure	adjective
+urbano	urban	adjective
+lograr	to get, obtain, to achieve, attain	verb
+delgada	thin	adjective
+la conexión	connection	noun
+la tecla	key	noun
+la huelga	strike	noun
+la pena	penalty	noun
+químico	chemical	adjective
+la advertencia	warning	noun
+tiene	has	extras
+aparente	apparent	adjective
+frio	cool	adjective
+extremo	extreme	adjective
+exacto	exact	adjective
+la suerte	luck	noun
+demasiado	too much	adverb
+el ADN	dna	noun
+el espíritu	spirit	noun
+la vuelta	turn	noun
+la instalación	facility	noun
+el adolescente	teenager	noun
+explicar	to explain	verb
+el compromiso	commitment	noun
+justo	fair	adjective
+podía	could	extras
+el elemento	item	noun
+el procedimiento de	procedure	noun
+la media	half	noun
+hizo	did	extras
+el tanque	tank	noun
+el teléfono	telephone	noun
+el suministro	supply	noun
+moral	moral	adjective
+bien	fine	adjective
+la actitud	attitude	noun
+el bloque	block	noun
+el vínculo	bond	noun
+el estilo	style	noun
+el fútbol	football	noun
+el combustible	fuel	noun
+los datos	data	noun
+el cristal	glass	noun
+el traje	suit	noun
+formal	formal	adjective
+atractivo	attractive	adjective
+la fuerza	strength	noun
+opuesto	opposite	adjective
+las críticas	criticism	noun
+remoto	remote	adjective
+vital	vital	adjective
+el hielo	ice	noun
+total	total	adjective
+el equipo	equipment	noun
+enorme	vast	adjective
+la promesa	promise	noun
+el regreso	return	noun
+sonar	sound	extras
+el álbum	album	noun
+perdió	lost	adjective
+la producción	production	noun
+la esquina	corner	noun
+la consecuencia	consequence	noun
+los vivos	living	noun
+preguntar	to ask, inquire	verb
+la lesión	injury	noun
+personas	people	extras
+sangriento	bloody	adjective
+la tapa	cover	noun
+tocar	to touch, to play (an instrument)	verb
+el punto	spot	noun
+liso	smooth	adjective
+reconocer	to recognize	verb
+la mama	breast	noun
+la primavera	spring	noun
+mi	my	extras
+la controversia	controversy	noun
+la destrucción	destruction	noun
+oscuro	dark	adjective
+el aspecto	aspect	noun
+poco	a little	adverb
+anciano	elderly	adjective
+doble	double	adjective
+estudiar	to study	verb
+el club	club	noun
+sobre	over	extras
+la aeronave	aircraft	noun
+igual	equal	adjective
+la empresa	firm	noun
+antiguo	ancient	adjective
+firma	firm	adjective
+el régimen	regime	noun
+la competencia	competition	noun
+el beneficio	profit	noun
+el conocimiento	knowledge	noun
+frecuente	frequent	adjective
+que	than	extras
+interno	internal	adjective
+sensible	sensitive	adjective
+el portavoz	spokesman	noun
+la revisión	review	noun
+la comprensión	understanding	noun
+la recesión	recession	noun
+el cantante	singer	noun
+el pueblo	village	noun
+constante	constant	adjective
+la detención	arrest	noun
+la nieve	snow	noun
+alcanzar	to reach, catch up	verb
+la broma	joke	noun
+el oro	gold	noun
+el contacto	contact	noun
+menor	minor	adjective
+anterior	previous	adjective
+crudo	raw	adjective
+la demanda	demand	noun
+suave	soft	adjective
+la tarea	task	noun
+el agujero	hole	noun
+el general	general	noun
+nacer	to be born	verb
+la piel	skin	noun
+sólido	solid	adjective
+dirigir	to direct	verb
+el recuento	count	noun
+extraño	weird	adjective
+que	who	extras
+impresionante	amazing	adjective
+anual	annual	adjective
+el oponente	opponent	noun
+la conclusión	conclusion	noun
+la prioridad	priority	noun
+más maravilloso	wonderfuler	adjective
+la violación	rape	noun
+puede	may	extras
+ocupado	busy	adjective
+muerto	dead	adjective
+el refugiado	refugee	noun
+la montaña	mountain	noun
+la cumbre	summit	noun
+falso	FALSE	adjective
+ronda	round	adjective
+la parte inferior	bottom	noun
+la gestión	management	noun
+la comisión	commission	noun
+afilado	sharp	adjective
+la gama	range	noun
+el código	code	noun
+de pie	stand	extras
+el dinero en efectivo	cash	noun
+académico	academic	adjective
+la boca	mouth	noun
+grueso	thick	adjective
+la presencia	presence	noun
+correr	to run	verb
+utilizar	to use, utilize	verb
+la cuota	share	noun
+pagar	to pay, pay for	verb
+ayudar	to help	verb
+la moda	fashion	noun
+inteligente	wise	adjective
+la forma	shape	noun
+la silla	chair	noun
+el dedo	finger	noun
+equivalente	equivalent	adjective
+inicial	initial	adjective
+el pescado	fish	noun
+angostas	narrow	adjective
+la edición	edition	noun
+el borde	edge	noun
+cercano	nearby	adjective
+el límite	limit	noun
+más	more	adverb
+el tren	train	noun
+corporativo	corporate	adjective
+la creencia	belief	noun
+gustar	to please, be pleasing	verb
+orgulloso	proud	adjective
+espiritual	spiritual	adjective
+jugar	to play (a game or sport)	verb
+debería	should	extras
+salvaje	wild	adjective
+bastante	enough	adverb
+el balance	balance	noun
+el intercambio	exchange	noun
+la granja	farm	noun
+la zona	zone	noun
+el pasajero	passenger	noun
+encontrado	found	extras
+la mentira	lie	noun
+el deber	duty	noun
+adulto	adult	adjective
+el tráfico	traffic	noun
+aparte	apart	adjective
+fundamental	fundamental	adjective
+breve	brief	adjective
+el caballo	horse	noun
+permanente	permanent	adjective
+la tradición	tradition	noun
+loco	crazy	adjective
+escuchar	to listen, hear	verb
+la recuperación	recovery	noun
+el inspector	inspector	noun
+la dificultad	difficulty	noun
+el archivo	file	noun
+alimentos	food	extras
+el cumpleaños	birthday	noun
+la financiación	finance	noun
+gris	grey	adjective
+el accidente	crash	noun
+la influencia	influence	noun
+previo	prior	adjective
+la regulación	regulation	noun
+el análisis	analysis	noun
+la lucha	struggle	noun
+el calor	heat	noun
+nada	not at all	adverb
+el vestido	dress	noun
+bruto	rough	adjective
+entre	between	extras
+la liberación	release	noun
+cumplir	to fulfil, carry out	verb
+el invierno	winter	noun
+el virus	virus	noun
+el tema	theme	noun
+triste	sad	adjective
+ofrecer	to offer	verb
+la noción	notion	noun
+enfermo	sick	adjective
+el dispositivo	device	noun
+pensado	thought	extras
+la ira	anger	noun
+el Inglés	english	noun
+la bandera	flag	noun
+el contexto	context	noun
+descubrir	to discover	verb
+extraño	strange	adjective
+levantar	to raise, to lift	verb
+el ala	wing	noun
+provincias	iller	adjective
+externo	external	adjective
+los combates	fighting	noun
+él es	illest	adjective
+el patrón	pattern	noun
+el entretenimiento	entertainment	noun
+la aparición	appearance	noun
+ilegal	illegal	adjective
+el ahorro	saving	noun
+el inversor	investor	noun
+el puente	bridge	noun
+alto	loud	adjective
+bien	well	adverb
+el asentamiento	settlement	noun
+crucial	crucial	adjective
+la lluvia	rain	noun
+móvil	mobile	adjective
+desagradable	nasty	adjective
+podría	might	extras
+subsecuente	subsequent	adjective
+la madera	wood	noun
+común	ordinary	adjective
+el correo	mail	noun
+intentar	to try, attempt	verb
+contemporáneo	contemporary	adjective
+el agricultor	farmer	noun
+sierra	saw	extras
+usar	to use	verb
+decidir	to decide, settle, resolve	verb
+el misterio	mystery	noun
+la oración	prayer	noun
+la visión	vision	noun
+la depresión	depression	noun
+la explosión	explosion	noun
+el acusado	defendant	noun
+la estructura	structure	noun
+la enmienda	amendment	noun
+el asalto	assault	noun
+el pensamiento	thinking	noun
+dibujar	draw	extras
+repetir	to repeat	verb
+la terapia	therapy	noun
+real	royal	adjective
+la enfermera	nurse	noun
+el camino	path	noun
+olvidar	to forget	verb
+sénior	senior	adjective
+súper	super	adjective
+la financiación	funding	noun
+ajustado	tight	adjective
+la herramienta	tool	noun
+superior	upper	adjective
+el título	title	noun
+delincuente	criminal	adjective
+amarillo	yellow	adjective
+la carcasa	housing	noun
+la tienda	shop	noun
+romano	roman	adjective
+la queja	complaint	noun
+dependiente	dependent	adjective
+secundario	secondary	adjective
+divertido	funny	adjective
+bruto	gross	adjective
+la ola	wave	noun
+el gato	cat	noun
+valer	to be worth	verb
+ejecutar	run	extras
+el mapa	map	noun
+mientras	while	extras
+enfermo	ill	adjective
+el empleador	employer	noun
+repuesto	spare	adjective
+la prueba	proof	noun
+la emoción	emotion	noun
+la habilidad	skill	noun
+la confianza	trust	noun
+dulce	sweet	adjective
+el tema	topic	noun
+la personalidad	personality	noun
+la sala	hall	noun
+el armario	cabinet	noun
+el hueso	bone	noun
+el alma	soul	noun
+el pollo	chicken	noun
+la ubicación	location	noun
+reales	real	extras
+norte	north	extras
+la indicación	indication	noun
+tomó	took	extras
+el altavoz	speaker	noun
+el salario	wage	noun
+piso de arriba	upstairs	adjective
+la era	era	noun
+la solicitud	request	noun
+el jefe	boss	noun
+el entrenador	coach	noun
+la finca	estate	noun
+habitual	usual	adjective
+corajudo	brave	adjective
+el sector	sector	noun
+el huevo	egg	noun
+calmar	calm	adjective
+desconocido	unknown	adjective
+comer	to eat	verb
+sucio	dirty	adjective
+la estaca	stake	noun
+parlamentario	parliamentary	adjective
+comenzó	began	extras
+la parada	stop	noun
+el anillo	ring	noun
+el choque	shock	noun
+gusta	idea	extras
+centro	downtown	adjective
+la contribución	contribution	noun
+grandioso	grand	adjective
+el anuncio	announcement	noun
+el cigarrillo	cigarette	noun
+la cocina	kitchen	noun
+honesto	honest	adjective
+comunista	communist	adjective
+el territorio	territory	noun
+el comando	command	noun
+la isla	island	noun
+perder	loose	adjective
+neto	net	adjective
+peces	fish	extras
+mostrar	to show	verb
+la protesta	protest	noun
+la impresión de	impression	noun
+el fallo	fault	noun
+mejor	better	adverb
+la costa	coast	noun
+ocupar	to occupy	verb
+masculino	male	adjective
+la lectura	reading	noun
+a largo plazo	long-term	adjective
+la variedad	variety	noun
+los ingresos	revenue	noun
+la campana	bell	noun
+tranquilo	quiet	adjective
+el café	coffee	noun
+brillante	brilliant	adjective
+extenso	extensive	adjective
+mover	to move	verb
+estimado	dear	adjective
+continuar	to continue	verb
+el alcohol	alcohol	noun
+enorme	enormous	adjective
+el almuerzo	lunch	noun
+la expectativa	expectation	noun
+el grado	grade	noun
+la dieta	diet	noun
+borracho	drunk	adjective
+la sección	section	noun
+el oído	ear	noun
+el cielo	sky	noun
+la ayuda	assistance	noun
+suceder	to happen, to succeed, follow	verb
+la señal	signal	noun
+fijar	to fix, fasten, secure	verb
+vacío	empty	adjective
+agrícola	agricultural	adjective
+el estrés	stress	noun
+rápido	fast	adverb
+rápidamente	quickly	adverb
+referir	to refer (to)	verb
+claramente	clearly	adverb
+la alternativa	alternative	noun
+el investigador	researcher	noun
+femenino	female	adjective
+inevitable	inevitable	adjective
+está bien	alright	adjective
+ordenado	neat	adjective
+ok	ok	adjective
+el cable	cable	noun
+la apertura	opening	noun
+la playa	beach	noun
+el voluntario	volunteer	noun
+director de escuela	principal	adjective
+acercar	to bring near	verb
+representante	representative	adjective
+tonto	silly	adjective
+la carga	burden	noun
+el detective	detective	noun
+el juguete	toy	noun
+la ganancia	gain	noun
+el activo	asset	noun
+dedicar	to dedicate	verb
+la piscina	pool	noun
+la tendencia	trend	noun
+leve	slight	adjective
+deténgase	stop	extras
+la encuesta	survey	noun
+el planeta	planet	noun
+el río	river	noun
+la identidad	identity	noun
+el océano	ocean	noun
+elegante	smart	adjective
+la alegría	joy	noun
+el retraso	delay	noun
+tonto	stupid	adjective
+bellamente	beautifully	adverb
+la clínica	clinic	noun
+temporario	temporary	adjective
+el patio	yard	noun
+ruidosamente	loudly	adverb
+convencional	conventional	adjective
+una vez	once	extras
+la punta	tip	noun
+el divorcio	divorce	noun
+semanal	weekly	adjective
+el sol	sun	noun
+la fila	row	noun
+la frase	phrase	noun
+la pena	worth	noun
+voluntario	voluntary	adjective
+la colección	collection	noun
+la ocasión	occasion	noun
+la superficie	surface	noun
+el empate	tie	noun
+el músico	musician	noun
+solo	only	adjective
+el concepto	concept	noun
+después	then	adjective
+la tensión	tension	noun
+primero	first	adjective
+base de	base	extras
+el resultado	outcome	noun
+estatutario	statutory	adjective
+la aprobación	approval	noun
+dorado	golden	adjective
+dulcemente	sweetly	adverb
+el becario	fellow	noun
+la belleza	beauty	noun
+cortada	cut	extras
+dorado	goldener	adjective
+el siniestro	casualty	noun
+más dorado	goldenest	adjective
+colores	color	extras
+la copia	copy	noun
+la mina	mine	noun
+radical	radical	adjective
+entusiasta	keen	adjective
+el reloj	watch	noun
+gordo	fat	adjective
+el sueño	sleep	noun
+llave	key	adjective
+la media	average	noun
+el recorrido	travel	noun
+cima	top	adjective
+nivel	level	adjective
+lejos	far	adjective
+divertida	fun	adjective
+adecuado	adequate	adjective
+el fraude	fraud	noun
+la categoría	category	noun
+el ejercicio	exercise	noun
+la convicción	conviction	noun
+amable	kind	adjective
+la iniciativa	initiative	noun
+la técnica de	technique	noun
+la grabación	recording	noun
+la vista	sight	noun
+la reducción	reduction	noun
+aprender	to learn	verb
+futuro	future	adjective
+rápido	rapid	adjective
+en vivo	live	adjective
+el conjunto	whole	noun
+la corporación	corporation	noun
+la pasión	passion	noun
+el funeral	funeral	noun
+más rápido	rapider	adjective
+la juventud	youth	noun
+abierta	open	extras
+el instrumento	instrument	noun
+más rápido	rapidest	adjective
+sujeto	subject	adjective
+la distancia	distance	noun
+comprar	to buy, purchase	verb
+juntos	together	extras
+significar	mean	adjective
+silencio	silent	adjective
+el desierto	desert	noun
+el aniversario	anniversary	noun
+la escritura	writing	noun
+la invasión	invasion	noun
+disgustado	upset	adjective
+subir	to go up, rise, move up, climb, raise up	verb
+cabeza	head	adjective
+quinto	fifth	adjective
+el compromiso	compromise	noun
+la enfermedad	illness	noun
+adecuado	appropriate	adjective
+masa	mass	adjective
+el desgarro	tear	noun
+la puerta	gate	noun
+el bosque	forest	noun
+mojado	wet	adjective
+el experimento	experiment	noun
+afuera	outside	adjective
+el golf	golf	noun
+seriamente	seriously	adverb
+el talento	talent	noun
+estándar	standard	adjective
+conservador	tory	adjective
+el cargo	post	noun
+la brecha	gap	noun
+medio	medium	adjective
+el sacerdote	priest	noun
+la novela	novel	noun
+evitar	to avoid, to prevent	verb
+la división	division	noun
+conseguido	got	extras
+el deseo	desire	noun
+el sombrero	hat	noun
+la hipoteca	mortgage	noun
+la reputación	reputation	noun
+la puntuación	score	noun
+absoluto	absolute	adjective
+cuadrado	square	adjective
+el hombro	shoulder	noun
+la relación	relative	noun
+absoluto	absoluter	adjective
+la columna	column	noun
+el pago	payment	noun
+la transición	transition	noun
+absoluto	absolutest	adjective
+el premio	award	noun
+interesar	to interest, be of interest (to)	verb
+parte delantera	front	adjective
+la capacidad	capability	noun
+eléctrico	electric	adjective
+la definición	definition	noun
+supremo	supreme	adjective
+el bolsillo	pocket	noun
+la velocidad	speed	noun
+literario	literary	adjective
+el concierto	concert	noun
+así	like this	adverb
+el clima	climate	noun
+la clave	clue	noun
+La cerveza	beer	noun
+cerrar	to close, shut	verb
+máximo	maximum	adjective
+la nariz	nose	noun
+caminar	walk	extras
+el verde	green	noun
+novela	novel	adjective
+echar	to throw, cast, fling	verb
+el jardín	garden	noun
+más	mere	adjective
+el satélite	satellite	noun
+así	this way	adverb
+seleccione	select	adjective
+la ceremonia	ceremony	noun
+la humana	human	noun
+responder	to respond, answer, reply to	verb
+mal	badly	adverb
+el descubrimiento	discovery	noun
+sufrir	to suffer, to undergo, experience	verb
+el paseo	ride	noun
+la raíz	root	noun
+el té	tea	noun
+el movimiento	motion	noun
+auténtico	genuine	adjective
+el porcentaje	percentage	noun
+adelante	forward	adjective
+articulación	joint	adjective
+la combinación	combination	noun
+importar	to import, to be important	verb
+pálido	pale	adjective
+extendido	widespread	adjective
+la explicación	explanation	noun
+la escala	scale	noun
+peor	worse	adverb
+obtener	to obtain, get	verb
+rojo	red	adjective
+la cadena de	chain	noun
+el gemelo	twin	noun
+la capacidad	capacity	noun
+el distribuidor	dealer	noun
+el toque	touch	noun
+el viaje	journey	noun
+aliviar	ease	extras
+el delegado	delegate	noun
+ideal	ideal	adjective
+el enlace	link	noun
+el plástico	plastic	noun
+el estímulo	stimulus	noun
+observar	to observe	verb
+decimonoveno	nineteenth	adjective
+indicar	to indicate	verb
+la tapa	cap	noun
+imaginar	to imagine	verb
+católico	catholic	adjective
+clásico	classical	adjective
+el rollo	roll	noun
+la construcción	construction	noun
+la intención	intention	noun
+favorito	favourite	adjective
+pariente	relative	adjective
+la disputa	dispute	noun
+el estado de ánimo	mood	noun
+soler	to be accustomed to	verb
+detener	to stop, to hold up, delay, to arrest, detain	verb
+el diseño	design	noun
+la infancia	childhood	noun
+el motor	engine	noun
+el tiempo de vida	lifetime	noun
+la pesadilla	nightmare	noun
+la danza	dance	noun
+la comida	meal	noun
+desarrollar	to develop, expand, to unroll, unwind, to unfold	verb
+socialista	socialist	adjective
+la oferta	offer	noun
+mínimo	minimum	adjective
+estable	stable	adjective
+la obligación	obligation	noun
+el avance	advance	noun
+horrible	awful	adjective
+lentamente	slowly	adverb
+estratégico	strategic	adjective
+la caridad	charity	noun
+sobresaliente	outstanding	adjective
+los	those	extras
+el turista	tourist	noun
+clínico	clinical	adjective
+ambos	both	extras
+la fábrica	factory	noun
+la grasa	fat	noun
+dominante	dominant	adjective
+la sal de	salt	noun
+constitucional	constitutional	adjective
+el cuello	neck	noun
+el dormitorio	bedroom	noun
+el episodio	episode	noun
+el ingeniero	engineer	noun
+teórico	theoretical	adjective
+el castigo	punishment	noun
+paciente	patient	adjective
+las pruebas	testing	noun
+más ansioso	anxiouser	adjective
+la instancia	instance	noun
+ansioso	anxiousest	adjective
+la perspectiva	prospect	noun
+santo	holy	adjective
+las compras	shopping	noun
+el humo	smoke	noun
+la carne	meat	noun
+menudo	often	extras
+la bodega	hold	noun
+la jubilación	retirement	noun
+la inflación	inflation	noun
+residencial	residential	adjective
+musical	musical	adjective
+el drama	drama	noun
+el escritorio	desk	noun
+el salario	salary	noun
+la biblia	bible	noun
+la subvención	grant	noun
+la demostración	demonstration	noun
+el diálogo	dialogue	noun
+púrpura	purple	adjective
+pies	feet	extras
+la sustancia	substance	noun
+señalar	to point out, indicate, to signal	verb
+el núcleo	core	noun
+extraordinario	extraordinary	adjective
+el tratado	treaty	noun
+amargo	bitter	adjective
+el personal	personnel	noun
+la muestra	sample	noun
+la táctica	tactic	noun
+el método	method	noun
+el ruido	noise	noun
+el objetivo	objective	noun
+preciso	precise	adjective
+la flor	flower	noun
+la copa	cup	noun
+la temperatura	temperature	noun
+el símbolo	symbol	noun
+la revolución	revolution	noun
+el sabor	taste	noun
+el museo	museum	noun
+llano	plain	extras
+el perfil	profile	noun
+la sugerencia	suggestion	noun
+elegir	to elect, choose	verb
+residente	resident	adjective
+por encima de	above	extras
+aunque	though	extras
+la ruta	route	noun
+el diente	tooth	noun
+inteligentemente	intelligently	adverb
+directa	direct	extras
+monetario	monetary	adjective
+el consultor	consultant	noun
+la unidad	drive	noun
+cuidadosamente	carefully	adverb
+preparar	to prepare, get (something) ready	verb
+más remoto	remoter	adjective
+el trastorno	disorder	noun
+el azúcar	sugar	noun
+más remoto	remotest	adjective
+el aumento	rise	noun
+rosado	pink	adjective
+llanura	plain	adjective
+distante	distant	adjective
+desempleados	unemployed	adjective
+el chip	chip	noun
+el motivo	motive	noun
+amable	gentle	adjective
+la camisa	shirt	noun
+medir	measure	extras
+corto	short	extras
+proponer	to propose	verb
+el puerto	port	noun
+violento	violent	adjective
+estructural	structural	adjective
+el potencial	potential	noun
+el calendario	schedule	noun
+sensitivo	sensible	adjective
+bienvenidos	welcome	adjective
+el parlamento	parliament	noun
+así llamado	so-called	adjective
+encima	above	adjective
+numeral	numeral	extras
+tranquilamente	quietly	adverb
+el concurso	contest	noun
+continuo	continuous	adjective
+la atmósfera	atmosphere	noun
+la rama	branch	noun
+la estimación	estimate	noun
+el síntoma	symptom	noun
+la participación	involvement	noun
+sordo	deaf	adjective
+estupendamente	stupendously	adverb
+voluntariamente	voluntarily	adverb
+pregunta	question	extras
+cerca	near	adjective
+la discriminación	discrimination	noun
+demostrar	to demonstrate, show	verb
+el cielo	heaven	noun
+la caminata	walk	noun
+agradecido	grateful	adjective
+el operador	operator	noun
+la recomendación	recommendation	noun
+exterior	overseas	adjective
+dicho	told	extras
+sabía	knew	extras
+el rebelde	rebel	noun
+evidente	evident	adjective
+significar	to signify, mean	verb
+desde	since	extras
+ocasional	occasional	adjective
+universal	universal	adjective
+la ronda	round	noun
+compañero	fellow	adjective
+el fabricante	maker	noun
+todo	whole	extras
+el vino	wine	noun
+ciego	blind	adjective
+la observación	remark	noun
+sexto	sixth	adjective
+el lío	mess	noun
+pulgadas	inch	extras
+el tono	tone	noun
+medieval	medieval	adjective
+la resistencia	resistance	noun
+la importancia	importance	noun
+reunir	to gather, meet, collect	verb
+la excepción	exception	noun
+la plataforma	platform	noun
+último	ultimate	adjective
+el cuchillo	knife	noun
+la percepción	perception	noun
+la cuota	fee	noun
+el maestro	master	noun
+el círculo	circle	noun
+la forma	manner	noun
+el chorro	jet	noun
+el significado	meaning	noun
+la evaluación	assessment	noun
+la placa	plate	noun
+faltar	to lack, be lacking, be missing	verb
+acompañar	to accompany	verb
+la expensa	expense	noun
+fácilmente	easily	adverb
+desear	to desire, want, wish	verb
+la trama	plot	noun
+el aula	classroom	noun
+lingüístico	linguistic	adjective
+la marca	brand	noun
+la pintura	painting	noun
+el techo	roof	noun
+el privilegio	privilege	noun
+estable	steady	adjective
+la bebida	drink	noun
+intelectual	intellectual	adjective
+la prohibición	ban	noun
+judicial	judicial	adjective
+el contenido	content	noun
+revolucionario	revolutionary	adjective
+el producto químico	chemical	noun
+multiplicar	multiply	extras
+el francés	french	noun
+enseñar	to teach, instruct, train, educate	verb
+construir	to build, construct	verb
+la inspección	inspection	noun
+el incentivo	incentive	noun
+quedarse	stay	extras
+el piano	piano	noun
+la botella	bottle	noun
+profunda	deep	extras
+los residuos	waste	noun
+sistema	system	extras
+acaso	perhaps	adverb
+vulnerable	vulnerable	adjective
+el error	error	noun
+imperial	imperial	adjective
+vender	to sell	verb
+hace	ago	extras
+corrió	ran	extras
+la etiqueta	label	noun
+representar	to represent	verb
+el reloj	clock	noun
+la crema	cream	noun
+además	besides	adverb
+el bien	good	noun
+equiparar	equate	extras
+flexible	flexible	adjective
+la fase de	phase	noun
+la filosofía	philosophy	noun
+la conducta	conduct	noun
+el ciclo	cycle	noun
+traído	brought	extras
+la electricidad	electricity	noun
+exterior	outer	adjective
+el obispo	bishop	noun
+el lector	reader	noun
+el embarazo	pregnancy	noun
+la liga	league	noun
+neumáticos	tire	extras
+desaparecer	to disappear	verb
+la mascota	pet	noun
+sí	yes	extras
+mandar	to order (give an order), to send	verb
+la fundación	foundation	noun
+el boom	boom	noun
+la torre	tower	noun
+experimental	experimental	adjective
+la característica	feature	noun
+la retirada	withdrawal	noun
+la respiración	breath	noun
+colectivo	collective	adjective
+la grieta	crack	noun
+el fabricante	manufacturer	noun
+llenar	fill	extras
+frecuentemente	frequenter	adjective
+el especialista	specialist	noun
+la referencia	reference	noun
+el cuento	tale	noun
+frecuente	frequentest	adjective
+andar	to walk	verb
+étnico	ethnic	adjective
+la provisión	provision	noun
+intenso	intense	adjective
+el historiador	historian	noun
+histórico	historic	adjective
+preferir	to prefer	verb
+el alambre	wire	noun
+racional	rational	adjective
+inadecuado	inadequate	adjective
+la especulación	speculation	noun
+el par	pair	noun
+la excusa	excuse	noun
+agudo	acute	adjective
+asegurar	to assure, secure, insure	verb
+el chocolate	chocolate	noun
+la celebración	celebration	noun
+adelante	before	adverb
+el queso	cheese	noun
+al este	east	extras
+la fortuna	fortune	noun
+el cuarto de baño	bathroom	noun
+prominente	prominent	adjective
+la función de	function	noun
+el universo	universe	noun
+válido	valid	adjective
+el canal	channel	noun
+generoso	generous	adjective
+la sonrisa	smile	noun
+aleatorio	random	adjective
+crecer	to grow (up)	verb
+la leche	milk	noun
+modesto	modest	adjective
+surgir	to arise, emerge, spring up, come out	verb
+el requisito	requirement	noun
+la sospecha	suspicion	noun
+más modesto	modester	adjective
+el hogar	household	noun
+el hallazgo	finding	noun
+el pecho	chest	noun
+matar	to kill, slaughter	verb
+la rutina	routine	noun
+la consideración	consideration	noun
+prueba modesta	modestest	adjective
+pintar	paint	extras
+la biblioteca	library	noun
+el daño	harm	noun
+inteligente	clever	adjective
+el margen	margin	noun
+entre	among	extras
+el objeto	object	noun
+responsable	liable	adjective
+la guitarra	guitar	noun
+el botón	button	noun
+potencia	power	extras
+mutual	mutual	adjective
+múltiple	multiple	adjective
+fina	fine	extras
+el silencio	silence	noun
+de confianza	reliable	adjective
+la mejora	improvement	noun
+entregar	to deliver, hand over	verb
+la caída de	drop	noun
+el nombramiento	appointment	noun
+el hombre de negocios	businessman	noun
+el flujo	flow	noun
+único	sole	adjective
+el metal	metal	noun
+el espejo	mirror	noun
+la presente	present	noun
+satisfactorio	satisfactory	adjective
+el portador	carrier	noun
+la expresión	expression	noun
+volar	fly	extras
+el destino	fate	noun
+colocar	to locate, place	verb
+marginal	marginal	adjective
+la nube	cloud	noun
+espere	wait	extras
+el músculo	muscle	noun
+idéntico	identical	adjective
+electoral	electoral	adjective
+el cinturón	belt	noun
+el capítulo	chapter	noun
+la cadena de	string	noun
+el comercio	trading	noun
+el truco	trick	noun
+distintivo	distinctive	adjective
+la guía	guide	noun
+el volumen	volume	noun
+el partido	match	noun
+oral	oral	adjective
+justo	bare	adjective
+presidencial	presidential	adjective
+la fantasía	fantasy	noun
+controversial	controversial	adjective
+orgánico	organic	adjective
+la rodilla	knee	noun
+plan de	plan	extras
+correcta	correct	extras
+estadístico	statistical	adjective
+el compuesto	compound	noun
+urgente	urgent	adjective
+establecer	to establish	verb
+el estómago	stomach	noun
+destacado	stood	extras
+la altura	height	noun
+el proyecto	draft	noun
+el desconocido	stranger	noun
+la infección	infection	noun
+deseable	desirable	adjective
+la masa	mass	noun
+la disciplina	discipline	noun
+el fruto	fruit	noun
+el visitante	visitor	noun
+gástrico	gastric	adjective
+el poema	poem	noun
+el fenómeno	phenomenon	noun
+exclusivo	exclusive	adjective
+cotidiano	everyday	adjective
+la valla	fence	noun
+la aplicación	application	noun
+la receta	recipe	noun
+dio	gave	extras
+magnífico	superb	adjective
+la ropa	clothing	noun
+la culpa	guilt	noun
+oh	oh	extras
+la supervivencia	survival	noun
+el campeón	champion	noun
+el uniforme	uniform	noun
+guardar	to guard, protect, to keep	verb
+la impresión	print	noun
+tiempo completo	full-time	adjective
+inesperado	unexpected	adjective
+la papa	potato	noun
+escarpado	sheer	adjective
+la disposición	arrangement	noun
+iniciar	to initiate, begin, start	verb
+la luna	moon	noun
+inocente	innocent	adjective
+decimoctavo	eighteenth	adjective
+el oso	bear	noun
+marina	marine	adjective
+la herida	wound	noun
+la estabilidad	stability	noun
+romántico	romantic	adjective
+venta minorista	retail	adjective
+alrededor	around	adverb
+libre	free	extras
+el orgullo	pride	noun
+la restricción	restriction	noun
+bajar	to lower, go down, descend, download	verb
+produce	produce	extras
+artificial	artificial	adjective
+del total	total	noun
+la barrera	barrier	noun
+institucional	institutional	adjective
+magnífico	magnificent	adjective
+el primo	cousin	noun
+la ocupación	occupation	noun
+la plata	silver	noun
+horas	hour	extras
+la torta	cake	noun
+biológico	biological	adjective
+diplomático	diplomatic	adjective
+notar	to note, notice, observe	verb
+el pulmón	lung	noun
+la rueda	wheel	noun
+el observador	observer	noun
+conveniente	convenient	adjective
+tremendo	tremendous	adjective
+la melodía	tune	noun
+la descripción	description	noun
+el establecimiento	establishment	noun
+capitalista	capitalist	adjective
+la cámara de	chamber	noun
+el horror	horror	noun
+funcional	functional	adjective
+la banca	banking	noun
+a menudo	often	adverb
+durante	during	extras
+meter	to put (in), place, insert	verb
+la manzana	apple	noun
+mecánico	mechanical	adjective
+dudan	reluctant	adjective
+simple	straightforward	adjective
+antes	before	adverb
+la implicación	implication	noun
+el acero	steel	noun
+incierto	uncertain	adjective
+digital	digital	adjective
+espectacular	spectacular	adjective
+tiempo parcial	part-time	adjective
+desnudo	naked	adjective
+la garganta	throat	noun
+la esencia	essence	noun
+la incursión	raid	noun
+la distinción	distinction	noun
+superior	superior	adjective
+el alemán	german	noun
+el labio	lip	noun
+cinco	five	extras
+la temporización	timing	noun
+la visión	insight	noun
+el golpe de Estado	coup	noun
+el cambio	shift	noun
+el policía	policeman	noun
+el hábito	habit	noun
+actuar	to act, perform, operate	verb
+mensual	monthly	adjective
+la hoja de	sheet	noun
+legislativo	legislative	adjective
+el delincuente	offender	noun
+la medianoche	midnight	noun
+la ejecución	execution	noun
+en lugar	rather	adverb
+la ansiedad	anxiety	noun
+explícito	explicit	adjective
+la empresa	enterprise	noun
+la tira	strip	noun
+el pop	pop	noun
+comparable	comparable	adjective
+la maravilla	wonder	noun
+apenas	as soon as	adverb
+doloroso	painful	adjective
+resumen	abstract	adjective
+mas abstracto	abstracter	adjective
+la sombra	shadow	noun
+más abstracto	abstractest	adjective
+sucesivo	successive	adjective
+más inteligente	intelligenter	adjective
+la libertad	liberty	noun
+la ficción	fiction	noun
+paso	step	extras
+la intervención	intervention	noun
+la creación	creation	noun
+la comercialización	marketing	noun
+el cristiano	christian	noun
+la olla	pot	noun
+se inteligente	intelligentest	adjective
+clase obrera	working-class	adjective
+la pesca	fishing	noun
+genético	genetic	adjective
+vigésimo	twentieth	adjective
+por lo tanto	hence	adverb
+temprana	early	extras
+el desayuno	breakfast	noun
+pretender	to attempt	verb
+el tubo	tube	noun
+la determinación	determination	noun
+innecesario	unnecessary	adjective
+mantenga	hold	extras
+oeste	west	extras
+la arena	sand	noun
+el permiso	permission	noun
+la directriz	guideline	noun
+influyente	influential	adjective
+la vergüenza	shame	noun
+intensivo	intensive	adjective
+los disturbios	riot	noun
+verbo	verb	extras
+cantar	sing	extras
+el usuario	user	noun
+el órgano	organ	noun
+el resort	resort	noun
+tropical	tropical	adjective
+gigante	giant	adjective
+ridículo	ridiculous	adjective
+el diseñador	designer	noun
+la comparación	comparison	noun
+el empleo	employment	noun
+el pan	bread	noun
+paralela	parallel	adjective
+sutil	subtle	adjective
+el deseo	wish	noun
+el amante	lover	noun
+la chaqueta	jacket	noun
+el pase	pass	noun
+espalda	back	adjective
+fondo	bottom	adjective
+el estatuto	statute	noun
+el ritmo	pace	noun
+la trama	frame	noun
+la confusión	confusion	noun
+maravilloso	marvellous	adjective
+la garantía	guarantee	noun
+preliminar	preliminary	adjective
+el comisionado	commissioner	noun
+la llama	flame	noun
+acordar	to decide, resolve, agree (on)	verb
+la asunción	assumption	noun
+el graduado	graduate	noun
+la entrada	entry	noun
+la sala	ward	noun
+la victoria	win	noun
+la ópera	opera	noun
+la amistad	friendship	noun
+cortar	to cut	verb
+parcial	partial	adjective
+seis	six	extras
+menor	lesser	adjective
+la exposición	exposure	noun
+corresponder	to correspond with	verb
+el cerdo	pig	noun
+el mate	mate	noun
+de ahí	hence	adverb
+el nervio	nerve	noun
+la longitud	length	noun
+ocupacional	occupational	adjective
+la vaca	cow	noun
+viajes	travel	extras
+asistente	assistant	adjective
+el paquete	pack	noun
+vertical	vertical	adjective
+progresivo	progressive	adjective
+la instrucción	instruction	noun
+el colapso	collapse	noun
+diez	ten	extras
+el asistente	assistant	noun
+la objeción	objection	noun
+romper	to break	verb
+el diario	diary	noun
+el erudito	scholar	noun
+continental	continental	adjective
+adquirir	to obtain, acquire, buy	verb
+excesivo	excessive	adjective
+lanzar	to throw, hurl, cast, fling	verb
+la comodidad	comfort	noun
+la preparación	preparation	noun
+la provincia	province	noun
+el pasaje	passage	noun
+el cristal	crystal	noun
+el engranaje	gear	noun
+excepcional	exceptional	adjective
+sencilla	simple	extras
+elegante	elegant	adjective
+vocal	vowel	extras
+contra	against	extras
+el trazo	stroke	noun
+la disminución	decline	noun
+el logro	achievement	noun
+aprovechar	to take advantage of	verb
+casual	casual	adjective
+la existencia	existence	noun
+apoyar	to support, hold up, to back	verb
+la alianza	alliance	noun
+la profesión	profession	noun
+la entrega	delivery	noun
+el editor	publisher	noun
+hormigón	concrete	adjective
+la simpatía	sympathy	noun
+okey	okay	adjective
+el plato	dish	noun
+provisional	interim	adjective
+la preocupación	worry	noun
+obligatorio	compulsory	adjective
+el componente	component	noun
+la aventura	adventure	noun
+el cultivo	crop	noun
+el golpe	blow	noun
+término corto	short-term	adjective
+lenta	slow	extras
+aras	sake	noun
+crónico	chronic	adjective
+el pecado	sin	noun
+pagadero	payable	adjective
+la pensión	pension	noun
+el garaje	garage	noun
+la radiación	radiation	noun
+sistemático	systematic	adjective
+característica	characteristic	adjective
+amar	love	extras
+el jugo	juice	noun
+el ajuste	setting	noun
+húmedo	damp	adjective
+aparecerá	appear	extras
+el índice	index	noun
+el vegetal	vegetable	noun
+la asociación	partnership	noun
+la poesía	poetry	noun
+el reconocimiento	recognition	noun
+el auto	self	noun
+el pie	standing	noun
+delicado	delicate	adjective
+el tejido	tissue	noun
+la concha	shell	noun
+el capitán	captain	noun
+aburrido	dull	adjective
+la tumba	grave	noun
+el rango	rank	noun
+magia	magic	adjective
+primer ministro	premier	adjective
+metropolitano	metropolitan	adjective
+divertido	funner	adjective
+el género	gender	noun
+la escasez	shortage	noun
+el premio	prize	noun
+más divertido	funnest	adjective
+la capa	coat	noun
+gobernar	govern	extras
+la semilla	seed	noun
+espléndido	splendid	adjective
+halar	pull	extras
+aviso	notice	extras
+la rata	rat	noun
+el suelo	soil	noun
+la orilla	shore	noun
+la derrota	defeat	noun
+la notificación	notice	noun
+negar	to deny, refuse	verb
+la bota	boot	noun
+operacional	operational	adjective
+el gráfico	chart	noun
+el ministerio	ministry	noun
+avanzar	to advance, move forward	verb
+el diamante	diamond	noun
+celular	cell	extras
+el acabado	finish	noun
+la admisión	admission	noun
+consultivo	advisory	adjective
+la oscuridad	dark	noun
+quizás	perhaps	extras
+resolver	to solve, to resolve, to settle (a debt, matter)	verb
+primitivo	primitive	adjective
+repentina	sudden	extras
+el laboratorio	laboratory	noun
+el profesional	professional	noun
+la recompensa	reward	noun
+ideológico	ideological	adjective
+costar	to cost	verb
+el bebé	infant	noun
+el texto	text	noun
+la ducha	shower	noun
+la dosis	dose	noun
+exigir	to demand, require	verb
+tecnológico	technological	adjective
+el pánico	panic	noun
+la red	net	noun
+el secretario	clerk	noun
+el minero	miner	noun
+contrario	contrary	adjective
+la delegación	delegation	noun
+la imaginación	imagination	noun
+la unidad	unity	noun
+el tío	uncle	noun
+el ingrediente	ingredient	noun
+aumentar	to increase, add to, rise	verb
+accesible	accessible	adjective
+adyacente	adjacent	adjective
+hostil	hostile	adjective
+la asignación	assignment	noun
+la moneda	currency	noun
+la batería	battery	noun
+el túnel	tunnel	noun
+la renuncia	resignation	noun
+provincial	provincial	adjective
+homosexual	gay	adjective
+el comprador	buyer	noun
+recoger	to pick up	verb
+abandonar	to abandon, leave behind, desert, to quit, give up	verb
+la moto	bike	noun
+la emoción	excitement	noun
+pacífico	peaceful	adjective
+variar	vary	extras
+el ratón	mouse	noun
+la alarma	alarm	noun
+imponer	to impose, enforce	verb
+más pacífico	peacefuler	adjective
+horrible	horrible	adjective
+el poeta	poet	noun
+el paisaje	landscape	noun
+de la posguerra	post-war	adjective
+la selección	selection	noun
+el grito	cry	noun
+la separación	separation	noun
+la pantalla	display	noun
+la discapacidad	disability	noun
+el contador	counter	noun
+geográfico	geographical	adjective
+el campeonato	championship	noun
+la mantequilla	butter	noun
+obligar	to oblige	verb
+el retrato	portrait	noun
+aún	still	adverb
+dinámica	dynamic	adjective
+el palo	stick	noun
+próximo	forthcoming	adjective
+indirecto	indirect	adjective
+la ingeniería	engineering	noun
+el mito	myth	noun
+guapo	handsome	adjective
+el ensayo	essay	noun
+el frío	cold	noun
+más guapo	handsomer	adjective
+aplicar	to apply	verb
+sílaba	syllable	extras
+el carbón	coal	noun
+más guapo	handsomest	adjective
+precioso	precious	adjective
+el contraste	contrast	noun
+incapaz	notable	adjective
+la observación	observation	noun
+como	like	adjective
+la cola	tail	noun
+pertenecer	to belong, pertain	verb
+gran	grand	extras
+el mecanismo	mechanism	noun
+definido	definite	adjective
+el esquema	scheme	noun
+desgraciado	unfortunate	adjective
+la presentación	presentation	noun
+el ángel	angel	noun
+artístico	artistic	adjective
+el bono	bonus	noun
+la posesión	possession	noun
+el aprendizaje	learning	noun
+la enseñanza	teaching	noun
+bola	ball	extras
+neutral	neutral	adjective
+magnético	magnetic	adjective
+la cubierta	deck	noun
+la criatura	creature	noun
+sin fin	endless	adjective
+todavía	yet	adverb
+feroz	fierce	adjective
+el funcionamiento	running	noun
+la literatura	literature	noun
+la debilidad	weakness	noun
+disponer	to have, arrange	verb
+el azul	blue	noun
+el compromiso	engagement	noun
+la incertidumbre	uncertainty	noun
+la investigación	inquiry	noun
+leve	mild	adjective
+ambicioso	ambitious	adjective
+la motivación	motivation	noun
+el polvo	dust	noun
+am	am	extras
+verbal	verbal	adjective
+el pico	peak	noun
+el instinto	instinct	noun
+la aguja	needle	noun
+pesada	heavy	extras
+maduro	mature	adjective
+la hoja	leaf	noun
+vela	sail	extras
+el lanzamiento	launch	noun
+la risa	laugh	noun
+la licencia	leave	noun
+la hierba	grass	noun
+legítimo	legitimate	adjective
+materiales	material	extras
+el hierro	iron	noun
+expresar	to express, voice, state	verb
+el competidor	competitor	noun
+el complejo	complex	noun
+el frijol	bean	noun
+bien conocido	well-known	adjective
+el polo	pole	noun
+sentarse	sit	extras
+provocar	to provoke	verb
+el buque	vessel	noun
+empinado	steep	adjective
+la subvención	subsidy	noun
+la oferta	bid	noun
+extraño	awkward	adjective
+el aterrizaje	landing	noun
+la tubería	pipe	noun
+capturas	catch	extras
+la interpretación	interpretation	noun
+el torneo	tournament	noun
+contenido	contenter	adjective
+defender	to defend	verb
+está satisfecho	contentest	adjective
+dentro	within	adverb
+la cadera	hip	noun
+el diagnóstico	diagnosis	noun
+el terreno de juego	pitch	noun
+la revista	journal	noun
+el techo	ceiling	noun
+empírico	empirical	adjective
+la exportación	export	noun
+la conciencia	awareness	noun
+quitar	to remove, take away	verb
+duro	harsh	adjective
+la cruz	cross	noun
+simpático	sympathetic	adjective
+el beso	kiss	noun
+monte	mount	extras
+el examen	examination	noun
+el imperio	empire	noun
+la sustitución	replacement	noun
+bordo	board	extras
+escrito	written	extras
+el pato	duck	noun
+conservar	to preserve, conserve, to keep, retain	verb
+la fórmula	formula	noun
+el diablo	devil	noun
+la limitación	limitation	noun
+guardado	kept	extras
+la compensación	compensation	noun
+colonial	colonial	adjective
+la invitación	invitation	noun
+demonio	evil	adjective
+depender	to depend	verb
+casas	eviler	adjective
+marcar	to mark, stamp, to show, indicate	verb
+la declaración	declaration	noun
+naval	naval	adjective
+compartir	to share, to divide (up)	verb
+el significado	significance	noun
+favorable	favourable	adjective
+vale la pena	worthwhile	adjective
+vidrio	glass	extras
+la final	final	noun
+la prima	premium	noun
+la ambulancia	ambulance	noun
+medio	mid	adjective
+séptimo	seventh	adjective
+ausente	absent	adjective
+la alfombra	carpet	noun
+cero	zero	adjective
+impreciso	vague	adjective
+el templo	temple	noun
+el constituyente	constituent	noun
+racial	racial	adjective
+débil	faint	adjective
+la concesión	concession	noun
+el consentimiento	consent	noun
+la premisa	premise	noun
+el patrimonio	heritage	noun
+dinámico	lively	adjective
+el estante	shelf	noun
+la indirecta	hint	noun
+costero	coastal	adjective
+el ritmo	rhythm	noun
+entusiasta	enthusiastic	adjective
+feminista	feminist	adjective
+el pasivo	liability	noun
+rígido	rigid	adjective
+el talón	heel	noun
+la capa de	layer	noun
+la cepa	strain	noun
+el carbono	carbon	noun
+el foro	forum	noun
+aplicable	applicable	adjective
+el mérito	merit	noun
+profundo	profound	adjective
+el joven	youngster	noun
+inmenso	immense	adjective
+diversión	fun	extras
+la transferencia	transfer	noun
+la distribución	distribution	noun
+la expansión	expansion	noun
+la profundidad	depth	noun
+la manta	blanket	noun
+el reino	kingdom	noun
+millones	million	extras
+el barro	mud	noun
+la llegada	arrival	noun
+el reflejo	reflection	noun
+comparativo	comparative	adjective
+la envoltura	envelope	noun
+la reserva	reserve	noun
+peculiar	peculiar	adjective
+la caza	hunting	noun
+beneficioso	beneficial	adjective
+los muebles	furniture	noun
+el gesto	gesture	noun
+la residencia	residence	noun
+mínimo	minimal	adjective
+soportar	bear	extras
+tieso	stiff	adjective
+terrible	dreadful	adjective
+vestir	clothe	extras
+la ambición	ambition	noun
+la uña	nail	noun
+se ha ido	gone	extras
+el espectro	spectrum	noun
+el dibujo	drawing	noun
+el entusiasmo	enthusiasm	noun
+después	after	adverb
+productivo	productive	adjective
+la pluma	pen	noun
+en breve	shortly	adverb
+poco profundo	shallow	adjective
+exacta	exact	extras
+pasivo	passive	adjective
+la preferencia	preference	noun
+la ausencia	absence	noun
+el oxígeno	oxygen	noun
+ansioso	eager	adjective
+excepto	except	extras
+simbólico	symbolic	adjective
+la escuadra	squad	noun
+la contaminación	pollution	noun
+la cerradura	lock	noun
+consistir	to consist	verb
+escribió	wrote	extras
+la extensión	extension	noun
+moderado	moderate	adjective
+el participante	participant	noun
+el arquitecto	architect	noun
+la magistratura	bench	noun
+fatal	fatal	adjective
+compacto	compact	adjective
+unirse	join	extras
+rentable	profitable	adjective
+rival	rival	adjective
+la cuerda	rope	noun
+molecular	molecular	adjective
+gerencial	managerial	adjective
+constituir	to constitute	verb
+el objetivo	aim	noun
+irrelevante	irrelevant	adjective
+la corriente de	stream	noun
+trasero	rear	adjective
+interior	interior	adjective
+cubrir	to cover	verb
+la evolución	evolution	noun
+el ángulo	angle	noun
+naranja	orange	adjective
+lineal	linear	adjective
+insuficiente	insufficient	adjective
+elegible	eligible	adjective
+incómodo	uncomfortable	adjective
+sugerir	suggest	extras
+leal	loyal	adjective
+más leal	loyaller	adjective
+la jurisdicción	jurisdiction	noun
+la carta	charter	noun
+más leal	loyallest	adjective
+limpia	clean	extras
+la ideología	ideology	noun
+saludable	wealthy	adjective
+la marea	tide	noun
+la representación	representation	noun
+futuro	prospective	adjective
+la identificación	identification	noun
+la concentración	concentration	noun
+de los padres	parental	adjective
+la norma	norm	noun
+fiscal	fiscal	adjective
+la propagación	spread	noun
+el rival	rival	noun
+la decepción	disappointment	noun
+entonces	then	adverb
+rotura	break	extras
+el tribunal	tribunal	noun
+el grano	grain	noun
+clase media	middle-class	adjective
+semántico	semantic	adjective
+blanco	blank	adjective
+la proporción	proportion	noun
+aumentando	rise	extras
+funcionar	to function, to run	verb
+el tonto	fool	noun
+creció	grew	extras
+cruel	cruel	adjective
+la fusión	merger	noun
+la lealtad	loyalty	noun
+la publicación	publication	noun
+la participación	participation	noun
+el escape	escape	noun
+ciento	cent	extras
+mezclar	mix	extras
+el accionista	shareholder	noun
+caber	to fit (in something)	verb
+cruel	crueller	adjective
+la circunscripción	constituency	noun
+la pintura	paint	noun
+el inodoro	toilet	noun
+hacia	towards	adverb
+el fantasma	ghost	noun
+la atracción	attraction	noun
+el león	lion	noun
+diverso	diverse	adjective
+noble	noble	adjective
+la nave	craft	noun
+la costumbre	custom	noun
+atender	to attend to, pay attention to	verb
+insistir	to insist	verb
+perdido	lost	extras
+el acantilado	cliff	noun
+el palacio	palace	noun
+la empuñadura	grip	noun
+la proteína	protein	noun
+la exactitud	accuracy	noun
+variable	variable	adjective
+el robo	theft	noun
+la viuda	widow	noun
+sentar	to seat, sit (someone down)	verb
+merecer	to deserve, merit	verb
+incluir	to include	verb
+inherente	inherent	adjective
+crudo	crude	adjective
+selectivo	selective	adjective
+la aceptación	acceptance	noun
+el acento	accent	noun
+elaborar	elaborate	adjective
+el olor	smell	noun
+intermedio	intermediate	adjective
+la salida	departure	noun
+misterioso	mysterious	adjective
+filosófico	philosophical	adjective
+los miembros	membership	noun
+la experiencia	expertise	noun
+desgaste	wear	extras
+adrede	deliberate	adjective
+la reparación	repair	noun
+la asamblea	assembly	noun
+el resumen	summary	noun
+la lógica	logic	noun
+tierno	tender	adjective
+el límite	boundary	noun
+el equivalente	equivalent	noun
+afortunado	fortunate	adjective
+furioso	furious	adjective
+el titular	holder	noun
+la dimensión	dimension	noun
+protector	protective	adjective
+octavo	eighth	adjective
+el riel	rail	noun
+inútil	useless	adjective
+la transacción	transaction	noun
+la izquierda	left	noun
+la secuencia	sequence	noun
+sagrado	sacred	adjective
+el festival	festival	noun
+el pozo	pit	noun
+el horizonte	horizon	noun
+el cuenco	bowl	noun
+la compra	purchase	noun
+más sagrado	sacreder	adjective
+el demandante	plaintiff	noun
+la tía	aunt	noun
+la equidad	equity	noun
+la carga	load	noun
+más sagrado	sacredest	adjective
+el alcance	scope	noun
+líquido	liquid	adjective
+valioso	worthy	adjective
+cruzar	to cross	verb
+solar	solar	adjective
+la oscuridad	darkness	noun
+el sándwich	sandwich	noun
+desagradable	unpleasant	adjective
+matemático	mathematical	adjective
+defensivo	defensive	adjective
+la parroquia	parish	noun
+arquitectónico	architectural	adjective
+tender	to lay out	verb
+inadecuado	inappropriate	adjective
+el cierre	closure	noun
+manual	manual	adjective
+la pila	pile	noun
+la propiedad	ownership	noun
+circular	circular	adjective
+persistente	persistent	adjective
+el origen	origin	noun
+el defensor	defender	noun
+divino	divine	adjective
+anunciar	to announce	verb
+el circuito de	circuit	noun
+la introducción	introduction	noun
+hasta	until	adverb
+espacial	spatial	adjective
+inaceptable	unacceptable	adjective
+el modo de	mode	noun
+el descuento	discount	noun
+la ecuación	equation	noun
+despertar	to awaken (somebody), wake up (somebody)	verb
+tóxico	toxic	adjective
+la entidad	entity	noun
+comentar	to comment on	verb
+el kit	kit	noun
+la psicología	psychology	noun
+competente	competent	adjective
+la virtud	virtue	noun
+la flexibilidad	flexibility	noun
+el entrenador	trainer	noun
+el continente	continent	noun
+enviado	sent	extras
+optimista	optimistic	adjective
+sonido	sound	adjective
+respectivo	respective	adjective
+integral	integral	adjective
+intacto	intact	adjective
+el comerciante	trader	noun
+el baño	bath	noun
+cayó	fell	extras
+fluir	flow	extras
+dudoso	doubtful	adjective
+el ladrillo	brick	noun
+el indicador	indicator	noun
+el vendedor	seller	noun
+redundante	redundant	adjective
+atrevido	bold	adjective
+aficionado	amateur	adjective
+publicar	to publish	verb
+invisible	invisible	adjective
+la promoción	promotion	noun
+el choque	clash	noun
+la característica	characteristic	noun
+cargar	to load, load up, to charge	verb
+la moneda	coin	noun
+la garantía	assurance	noun
+la proposición	proposition	noun
+cognitivo	cognitive	adjective
+la lengua	tongue	noun
+el mínimo	minimum	noun
+trágico	tragic	adjective
+regulador	regulatory	adjective
+participar	to participate, to share in, to inform	verb
+el colector	collector	noun
+el control	control	extras
+impedir	to prevent	verb
+decimal	decimal	extras
+demás	else	extras
+el capitalismo	capitalism	noun
+increíble	incredible	adjective
+decisivo	decisive	adjective
+territorial	territorial	adjective
+despierto	awake	adjective
+salvar	to save, rescue, to except, exclude	verb
+la cesta	basket	noun
+interior	inland	adjective
+el marco	framework	noun
+la conciencia	consciousness	noun
+horizontal	horizontal	adjective
+el interruptor	switch	noun
+el alquiler	rent	noun
+la curva	curve	noun
+el algodón	cotton	noun
+probable	probable	adjective
+adverso	adverse	adjective
+el parche	patch	noun
+la importación	import	noun
+el aislamiento	isolation	noun
+la entrada	entrance	noun
+respetable	respectable	adjective
+la necesidad	necessity	noun
+civil	civilian	adjective
+gótico	gothic	adjective
+escapar	to escape	verb
+la plaza	square	noun
+ortodoxo	orthodox	adjective
+tirar	to throw, to shoot, to throw away, to pull	verb
+estático	static	adjective
+compatible	compatible	adjective
+contestar	to answer	verb
+rompió	broke	extras
+causal	causal	adjective
+instante	instant	adjective
+la empresa	venture	noun
+el vapor	steam	noun
+la agricultura	agriculture	noun
+recta	straight	extras
+la transformación	transformation	noun
+implícito	implicit	adjective
+las ovejas	sheep	noun
+el cepillo	brush	noun
+la base de datos	database	noun
+dos tercios	two-thirds	adjective
+anticuado	old-fashioned	adjective
+estético	aesthetic	adjective
+preocupar	to worry	verb
+agregar	aggregate	adjective
+delgado	slim	adjective
+el depósito	deposit	noun
+el menú	menu	noun
+prestar	to lend	verb
+largo	lengthy	adjective
+el ajuste	adjustment	noun
+el triunfo	triumph	noun
+doble	dual	adjective
+subjetivo	subjective	adjective
+pequeñito	wee	adjective
+consonante	consonant	extras
+miserable	miserable	adjective
+el consumo	consumption	noun
+fantástico	fantastic	adjective
+el guardián	guardian	noun
+la cortina	curtain	noun
+pesar	to weigh, to weigh down	verb
+la satisfacción	satisfaction	noun
+el cálculo	calculation	noun
+exponer	to expose	verb
+la flota	fleet	noun
+el remedio	remedy	noun
+inconsciente	unaware	adjective
+protestante	protestant	adjective
+inconsciente	unconscious	adjective
+el carril	lane	noun
+décimo	tenth	adjective
+ético	ethical	adjective
+de moda	fashionable	adjective
+el certificado	certificate	noun
+la natación	swimming	noun
+la emisión	emission	noun
+la tela	fabric	noun
+el medio	medium	noun
+viajar	to travel, journey	verb
+tranquila	quiet	extras
+la eficiencia	efficiency	noun
+la interacción	interaction	noun
+anónimo	anonymous	adjective
+la cabina	cab	noun
+la Pascua	easter	noun
+la gloria	glory	noun
+la recepción	reception	noun
+exótico	exotic	adjective
+la productividad	productivity	noun
+el ácido	acid	noun
+el siervo	servant	noun
+la evaluación	evaluation	noun
+el molino	mill	noun
+la exposición	exhibition	noun
+la suma	sum	noun
+mientras tanto	in the meantime	adverb
+la contraparte	counterpart	noun
+el sargento	sergeant	noun
+el almacenamiento	storage	noun
+adolescente	teenage	adjective
+la fracción	fraction	noun
+ascenso	climb	extras
+la innovación	innovation	noun
+la postura	stance	noun
+separar	to separate	verb
+costoso	costly	adjective
+el motor	motor	noun
+el formato	format	noun
+la partícula	particle	noun
+fresco	cool	extras
+la traza	trace	noun
+gran escala	large-scale	adjective
+el fluido	fluid	noun
+desastroso	disastrous	adjective
+el plan de estudios	curriculum	noun
+autónomo	autonomous	adjective
+bajo tierra	underground	adjective
+precavido	cautious	adjective
+atómico	atomic	adjective
+la doctrina	doctrine	noun
+el desarrollador	developer	noun
+la pausa	pause	noun
+regresar	to return, go back	verb
+confidencial	confidential	adjective
+la eliminación	removal	noun
+inferior	bottom	extras
+la sensación	sensation	noun
+necio	foolish	adjective
+vistoso	colourful	adjective
+el dividendo	dividend	noun
+educado	polite	adjective
+delicioso	delicious	adjective
+minucioso	thorough	adjective
+aficionado	fond	adjective
+el monopolio	monopoly	noun
+la galería	gallery	noun
+la conferencia	lecture	noun
+el taxi	taxi	noun
+la discreción	discretion	noun
+la carne	flesh	noun
+alegre	cheerful	adjective
+el comerciante	merchant	noun
+sola	single	extras
+uniforme	uniform	adjective
+sin alterar	unchanged	adjective
+contemplar	to contemplate	verb
+recorrer	to travel	verb
+la cantidad	quantity	noun
+coherente	coherent	adjective
+el niño mimado	darling	noun
+la justificación	justification	noun
+palillo	stick	extras
+glorioso	glorious	adjective
+glorioso	gloriouser	adjective
+el pintor	painter	noun
+la mezcla de	mixture	noun
+el incumplimiento	breach	noun
+el ascensor	lift	noun
+glorioso	gloriousest	adjective
+el estanque	pond	noun
+la mejilla	cheek	noun
+el sucesor	successor	noun
+el registro	registration	noun
+la consulta	consultation	noun
+la calificación	qualification	noun
+durar	to last, go on, continue	verb
+el proveedor	supplier	noun
+psiquiátrico	psychiatric	adjective
+retirar	to remove, retire, withdraw (money)	verb
+el otoño	autumn	noun
+léxico	lexical	adjective
+evolutivo	evolutionary	adjective
+veinte	twenty	extras
+el hardware	hardware	noun
+pliegue	crease	extras
+disciplinario	disciplinary	adjective
+el cuero	leather	noun
+el conejo	rabbit	noun
+ni	neither/nor	adverb
+saltar	jump	extras
+permanecer	to stay, remain	verb
+arbitrario	arbitrary	adjective
+encantador	delightful	adjective
+el párrafo	paragraph	noun
+el compañero	companion	noun
+la mayor parte	bulk	noun
+el corredor	corridor	noun
+el taller	workshop	noun
+la sombra	shade	noun
+asistir	to attend	verb
+vagabundo	homeless	adjective
+el contador	accountant	noun
+la espada	sword	noun
+exceso	excess	adjective
+la formación	formation	noun
+la integración	integration	noun
+los gastos	expenditure	noun
+la entrada	input	noun
+íntimo	intimate	adjective
+la varilla	rod	noun
+la complejidad	complexity	noun
+la falda	skirt	noun
+formidable	formidable	adjective
+el insecto	insect	noun
+gradual	gradual	adjective
+exterior	outdoor	adjective
+ocho	eight	extras
+tímido	shy	adjective
+organizar	to organize	verb
+el transporte	transport	noun
+más tímido	shyer	adjective
+contener	to contain, hold	verb
+La mortalidad	mortality	noun
+pronto	soon	adverb
+la pendiente	slope	noun
+la restauración	restoration	noun
+se reúnen	meet	extras
+tal vez	perhaps	adverb
+profesional	vocational	adjective
+el nido	nest	noun
+la variación	variation	noun
+la composición	composition	noun
+en todo el mundo	worldwide	adjective
+de metal	metal	extras
+visitar	to visit	verb
+informar	to inform, tell, announce	verb
+tan	so	adverb
+si	whether	extras
+enviar	to send	verb
+avergonzado	ashamed	adjective
+la corona	crown	noun
+organizativo	organisational	adjective
+malvado	wicked	adjective
+empujar	push	extras
+la probabilidad	probability	noun
+imaginativo	imaginative	adjective
+la liberación	liberation	noun
+la asistencia	attendance	noun
+siete	seven	extras
+el organismo	organism	noun
+la conservación	conservation	noun
+extraño	bizarre	adjective
+la escultura	sculpture	noun
+caucho	rubber	adjective
+eventual	eventual	adjective
+cuidar	to take care of, look after	verb
+intervenir	to intervene	verb
+así	so	adverb
+el champagne	champagne	noun
+espontáneo	spontaneous	adjective
+la arquitectura	architecture	noun
+ministerial	ministerial	adjective
+el otro	other	noun
+el señor	lord	noun
+la tv	tv	noun
+la furgoneta	van	noun
+innovador	innovative	adjective
+el directorio	directory	noun
+el cien	hundred	noun
+la docena	dozen	noun
+la tesorería	treasury	noun
+severo	grim	adjective
+tarde	late	adverb
+la gasolina	petrol	noun
+el comprador	purchaser	noun
+conceptual	conceptual	adjective
+cívico	civic	adjective
+la terraza	terrace	noun
+la avenida	avenue	noun
+los mil	thousand	noun
+vívido	vivid	adjective
+la sociología	sociology	noun
+la posada	inn	noun
+gramático	grammatical	adjective
+la colonia	colony	noun
+extender	to extend	verb
+la asociación	association	noun
+temprano	early	adverb
+el príncipe	prince	noun
+la corp	corp	noun
+comprobar	to verify, to check	verb
+el muchacho	lad	noun
+el catálogo	catalogue	noun
+fiel	faithful	adjective
+el magistrado	magistrate	noun
+ala derecha	right-wing	adjective
+la asignación	allocation	noun
+todos los días	everyday	adverb
+tercero	third	extras
+usualmente	usually	adverb
+el puerto	harbour	noun
+deberá	shall	extras
+el abogado	solicitor	noun
+el viajero	traveller	noun
+en espera	held	extras
+significativo	meaningful	adjective
+suplementario	supplementary	adjective
+generalmente	generally	adverb
+geológico	geological	adjective
+el conde	earl	noun
+el humor	humour	noun
+el Papa	pope	noun
+la señora	mrs	noun
+el comportamiento	behaviour	noun
+el proyecto de ley	bill	noun
+dormir	to sleep	verb
+constructivo	constructive	adjective
+discutir	to argue, discuss	verb
+la marca	mark	noun
+pelo	hair	extras
+el criterio	criterion	noun
+irrazonable	unreasonable	adjective
+ruidoso	noisy	adjective
+el duque	duke	noun
+obligatorio	mandatory	adjective
+la roja	red	noun
+soleado	sunny	adjective
+describir	describe	extras
+la federación	federation	noun
+inmune	immune	adjective
+el judio	jew	noun
+el coronel	colonel	noun
+la mierda	shit	noun
+cocinero	cook	extras
+cooperativa	co-operative	adjective
+ya sea	either	extras
+convencional	mainstream	adjective
+quemar	burn	extras
+el águila	eagle	noun
+el centro	centre	noun
+enfrentar	to confront, to face	verb
+la señorita	miss	noun
+conducir	to drive, conduct	verb
+el higo	fig	noun
+conductual	behavioural	adjective
+el instituto	institute	noun
+la bahía	bay	noun
+reacio	unwilling	adjective
+el honor	honour	noun
+vigoroso	vigorous	adjective
+la clasificación	classification	noun
+opcional	optional	adjective
+el concejal	councillor	noun
+el alguacil	constable	noun
+indígena	indigenous	adjective
+la oficina	bureau	noun
+la milla	mile	noun
+viable	viable	adjective
+bit	bit	extras
+el procedimiento	proceeding	noun
+la sentencia	judgement	noun
+el cheque	cheque	noun
+la no	no	noun
+fracasado	unsuccessful	adjective
+brusco	rude	adjective
+la reina	queen	noun
+el valle	valley	noun
+pocas veces	seldom	adverb
+burgués	bourgeois	adjective
+anualmente	annually	adverb
+los mil millones	billion	noun
+la pulgada	inch	noun
+noveno	ninth	adjective
+las escaleras	stairs	noun
+secular	secular	adjective
+de altura	tall	extras
+sustantivo	substantive	adjective
+la fibra	fibre	noun
+el acre	acre	noun
+batir	beat	extras
+el blanco	white	noun
+el lago	lake	noun
+el dios	god	noun
+la investigación	enquiry	noun
+excitar	excite	extras
+la princesa	princess	noun
+firmar	to sign	verb
+poco claro	unclear	adjective
+la basura	rubbish	noun
+la tonelada	tonne	noun
+la marina	navy	noun
+el cap	chap	noun
+el millón	million	noun
+el programa	programme	noun
+la organización	organisation	noun
+la república	republic	noun
+el porcentaje	percent	noun
+la momia	mummy	noun
+el favorito	favourite	noun
+el cm	cm	noun
+periférico	peripheral	adjective
+previsible	predictable	adjective
+la ilustración	illustration	noun
+respetar	to respect	verb
+la his-	tory	noun
+ofensivo	offensive	adjective
+las ayudas	aids	noun
+organizativo	organizational	adjective
+sostener	to support, to hold up	verb
+el teatro	theatre	noun
+absurdo	absurd	adjective
+estacional	seasonal	adjective
+poderoso	mighty	adjective
+difícil	uneasy	adjective
+advertir	to notice, observe, advise, warn	verb
+la licencia	licence	noun
+transformar	to transform	verb
+el metro	metre	noun
+la constitución	constitution	noun
+la unión	junction	noun
+óptico	optical	adjective
+la interfaz	interface	noun
+la mirada	gaze	noun
+el pensionista	pensioner	noun
+infinito	infinite	adjective
+día a día	day-to-day	adjective
+decorativo	decorative	adjective
+el constructor	builder	noun
+la universidad	university	noun
+el parque	park	noun
+cuantitativo	quantitative	adjective
+la colina	hill	noun
+proporcional	proportional	adjective
+burocrático	bureaucratic	adjective
+el vecino	neighbour	noun
+celoso	jealous	adjective
+el unix	unix	noun
+agradable	enjoyable	adjective
+el favor	favour	noun
+la ciudad	borough	noun
+la redundancia	redundancy	noun
+el rey	king	noun
+bastar	to suffice	verb
+la co	co	noun
+el árbitro	ref	noun
+la vida útil	lifespan	noun
+la abadía	abbey	noun
+el rumor	rumour	noun
+el armario	cupboard	noun
+el ayuntamiento	council	noun
+el color	colour	noun
+el dólar	dollar	noun
+la mancomunidad	commonwealth	noun
+el condado	county	noun
+la momia	mum	noun
+la rosa	rose	noun
+la cuba	vat	noun
+la foto	photo	noun
+el camión	lorry	noun
+la mano de obra	labour	noun
+la defensa	defence	noun
+la tierra	earth	noun
+la plana	flat	noun
+el delito	offence	noun
+el papá	daddy	noun
+el apéndice	appendix	noun
+el whisky	whisky	noun
+la isla	isle	noun
+la marcha	go	noun
+la villa	villa	noun
+mencionar	to mention	verb
+el tutor	tutor	noun
+el arzobispo	archbishop	noun
+la fotografía	photograph	noun
+la especificación	specification	noun
+plantear	to propose, present	verb
+la politécnica	polytechnic	noun
+la zarza	bush	noun
+la frecuencia	frequency	noun
+el seminario	seminar	noun
+el interior	interior	noun
+el verso	verse	noun
+el recibo	receipt	noun
+la raza	breed	noun
+la medición	measurement	noun
+la palma	palm	noun
+el muelle	dock	noun
+el pc	pc	noun
+la desventaja	disadvantage	noun
+la instalación	installation	noun
+el anuncio	advertisement	noun
+la implementación	implementation	noun
+la cartera	portfolio	noun
+la madera	timber	noun
+la cláusula	clause	noun
+el discurso	discourse	noun
+el disco	disc	noun
+la cuchilla	blade	noun
+la relación	ratio	noun
+el contorno	outline	noun
+la adición	addition	noun
+la maquinaria	machinery	noun
+el canal	canal	noun
+lo local	local	noun
+la eliminación	disposal	noun
+la negativa	refusal	noun
+el registro	register	noun
+la auditoría	audit	noun
+la disponibilidad	availability	noun
+la adquisición	acquisition	noun
+la autonomía	autonomy	noun
+el haz	beam	noun
+el alojamiento	accommodation	noun
+el solicitante	applicant	noun
+la modificación	modification	noun
+el fragmento	fragment	noun
+el inquilino	tenant	noun
+la conversión	conversion	noun
+el vendedor	vendor	noun
+el practicante	practitioner	noun
+el deleite	delight	noun
+el filtro	filter	noun
+la puerta	doorway	noun
+la incidencia	incidence	noun
+la restricción	constraint	noun
+el paño	cloth	noun
+el vivero	nursery	noun
+el disco	disk	noun
+el diccionario	dictionary	noun
+la concepción	conception	noun
+la molécula	molecule	noun
+la celebración	holding	noun
+la casa de campo	cottage	noun
+el arrendador	landlord	noun
+la sucesión	succession	noun
+el calor	warmth	noun
+el hechizo	spell	noun
+la capilla	chapel	noun
+el ocio	leisure	noun
+el reinado	reign	noun
+la respuesta	reply	noun
+la duración	duration	noun
+el castillo	castle	noun
+la jerarquía	hierarchy	noun
+la correlación	correlation	noun
+la exclusión	exclusion	noun
+el pub	pub	noun
+la hipótesis	hypothesis	noun
+la lámpara	lamp	noun
+la esfera	sphere	noun
+el canciller	chancellor	noun
+el campesino	peasant	noun
+la salida	output	noun
+el emperador	emperor	noun
+la mirada	glance	noun
+el espécimen	specimen	noun
+la directiva	directive	noun
+la tesis	thesis	noun
+el trabajo	working	noun
+el subsidio	allowance	noun
+la bandeja	tray	noun
+la catedral	cathedral	noun
+la piedad	pity	noun
+el carro	carriage	noun
+el cine	cinema	noun
+el hijo de puta	bastard	noun
+los alumnos	students	noun
+américa	america	noun
+los años	years	noun
+el arbitro	referee	noun
+los árboles	trees	noun
+argentina	argentina	noun
+la aroma	aroma, scent	noun
+el arroz	rice	noun
+el avión	airplane	noun
+la bandada	flock	noun
+el camarero	waiter	noun
+canadá	canada	noun
+el lápiz	pencil	noun
+el cometa	comet	noun
+el coro	choir	noun
+el cuaderno	notebooks	noun
+el cura	priest	noun
+el dilema	dilemma	noun
+la dinamo	dynamo	noun
+el diploma	diploma	noun
+el enigma	enigma	noun
+el enjambre	swarm	noun
+el excursión	trip	noun
+la felicidad	happiness	noun
+la fiesta	party	noun
+la gallina	hen	noun
+la junta	board (group of people)	noun
+la lámpara	lamps	noun
+las llaves	keys	noun
+el maestro	teacher	noun
+la maldad	evil	noun
+la manada	pack of animals	noun
+la mesa	table	noun
+el mono	monkey	noun
+el montón	heap/pile	noun
+la motocicleta	motorcycle	noun
+los niños	children	noun
+el sustantivo	noun	noun
+la orquesta	orchestra	noun
+los padres	parents	noun
+el paisaje	landscape	noun
+los pantalones	pants	noun
+el pastel	cake	noun
+el racimo	bunch/boquet	noun
+el rebaño	herd	noun
+la serie	series (tv)	noun
