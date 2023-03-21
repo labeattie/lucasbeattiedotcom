@@ -11,8 +11,8 @@ In the previous Spanish learning article, I talked about some of the strategies 
 ## Download Links!
 When opening the verb conjugation practice tool, you have to click "Enable Content" or similar at the top of the sheet in order for Excel to allow the VBA code to run.
 
-[Vocabulary Words List][word_list]\
-[Verb Conjugation Practice Tool][verb_xlsm]
+<span style="font-size:1.3em">[Vocabulary Words List][word_list]</span>\
+<span style="font-size:1.3em">[Verb Conjugation Practice Tool][verb_xlsm]</span>
 
 ![verb_tool](/assets/verb_tool.jpg)
 
