@@ -83,7 +83,7 @@ I found this idea of Coast FI to be appealing, and even relieving. I had been ex
 This stressed me out a bit because I was intent on reaching FI in a foreseeable timeline. However, when I discovered Coast FI, I realized we were barely already there! This was a new and much more positive way to look at things for me. I could: 
 
 * Quit worrying about whether my activities in my dwindling free time were profitable, so I started some cool projects like this website. 
-* Be grateful our earnings are greater than our expenses as we take on the one-time expenses like home renovation. 
+* Be grateful our earnings are greater than our expenses as we take on one-time expenses like home renovation. 
 * Feel even happier with our family's decision for my wife to go part-time. 
 * Rest easy it when we spend far more than usual on restaurants while crunched for time and stressed out due to some temporary circumstance.
 
