@@ -84,7 +84,7 @@ This stressed me out a bit because I was intent on reaching FI in a foreseeable 
 
 * Quit worrying about whether my activities in my dwindling free time were profitable, so I started some cool projects like this website. 
 * Be grateful our earnings are greater than our expenses as we take on one-time expenses like home renovation. 
-* Feel even happier with our family's decision for my wife to go part-time. 
+* Feel even happier with our family's decision for my wife to work part-time. 
 * Rest easy it when we spend far more than usual on restaurants while crunched for time and stressed out due to some temporary circumstance.
 
 This mindset of making life enjoyable now also carried into my career. I started asking Palmer for more work of the type that gets me most excited, and I proposed doing some of the jobs I was already on in a way I thought would be cooler and more effective. As you might guess from my other articles, this often involves analysis problems that make use of [Excel VBA][vba]. Since then, I've been enjoying work even more.
