@@ -11,9 +11,9 @@ I started putting this website together in December of last year, and published 
 ![computer](/assets/computer.jpg)
 
 ## Extended Resume 
-The first reason I wanted to make this personal website/blog was just to act as a sort of extended resume or CV. When employers or peers Google me, I think it's pretty cool and impressive looking when they find a full website. It also puts a lot of my preferences and interests front and center, so that anyone looking knows a little bit of what I'm about right away.
+The first reason I wanted to make this personal website/blog was just to act as a sort of extended resume or CV. When employers or peers Google me, I think it's pretty cool and impressive looking when they find a full website. It also puts a lot of my preferences and interests front and center, so that anyone looking knows a little bit about me right away.
 
-Daniel Meissler is a cybersecurity expert who runs a very interesting blog. One of my best friends is always sending me articles from his site. One that really drove home this "extended CV" idea for me is his post [Why Everyone Needs a Blog](https://danielmiessler.com/blog/why-everyone-needs-a-blog/).
+Daniel Meissler is a cybersecurity expert who runs a blog. One of my best friends is always sending me articles from his site. One that really drove home this "extended CV" idea for me is his post [Why Everyone Needs a Blog](https://danielmiessler.com/blog/why-everyone-needs-a-blog/).
 
 ## Thought Refinement
 The act of writing can let us iron out and clarify our thoughts. Often the ideas and opinions we hold are a jumbled mess, and we don't take the time or attention to sort through them. Creating an article about a topic really forces you to clear ambiguities and mold your ideas into a coherent whole, which then increases your confidence in those ideas, or even in your identity.
@@ -29,16 +29,16 @@ Jason Roberts is a tech entrepreneur who coined the term "[Luck Surface Area](ht
 
 I encountered a similar idea while watching Ali Abdaal's YouTube video [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4). Although I definitely don't expect this website to make me a millionaire, this video was a turning point for me in deciding this website was something I wanted to put out in the world. He goes over several ideas that resonate with me, including clarifying your thinking, having a greater network effect, and showing your work, but my favorite one is probably the point about publishing content acting as a "serendipity vehicle."
 
-This idea came from [David Perell](https://perell.com/essay/serendipity/), and, similar to the luck surface area concept, it emphasizes finding opportunities you can't anticipate. When you put out content that lets others know what you're interested in, you connect with people with similar interests and they have ideas and knowledge around those things that are different from yours. 
+This idea came from [David Perell](https://perell.com/essay/serendipity/), and, similar to the luck surface area concept, it emphasizes finding opportunities you can't anticipate. When you put out content that lets others know what you're passionate about, you connect with people with similar interests and they have ideas and knowledge around those things that are different from yours. 
 
-For an example, I know my super detailed, math-heavy posts on drilled shaft capacities aren't going to attract a lot of readers. Of course it's nice as an extended resume piece, but more than that, if anyone IS interested in these articles, and then contacts me about them, I know they're interested in that same niche topic. They are likely an excellent person for me to know. 
+For an example, I know my super detailed, math-heavy posts on drilled shaft capacities aren't going to attract a lot of readers. Of course it's nice as an extended resume piece, but more than that, if anyone IS interested in these articles, and then contacts me about them, I know they're likely an excellent person for me to know. 
 
-These articles have already led to some interesting connections, and have done so far more quickly than I would've expected. I've met a couple of other civil engineers interested in Excel VBA, connected with old friends and acquaintances whose careers have turned in directions very interesting to me, and have even connected with a few personal finance creators with interests similar to mine. These little serendipitous incidents constantly remind me this website was a great idea and is already paying off.
+These articles have already led to some fun connections, and have done so far more quickly than I would've expected. I've met a couple of other civil engineers doing projects in Excel VBA, connected with old friends and acquaintances whose careers have turned in directions relevant to me, and have even connected with a few personal finance creators with interests similar to mine. These little serendipitous incidents constantly remind me this website was a great idea and is already paying off.
 
 ## A Place to Put Cool Stuff
 ![dog](/assets/cool dog.jpg){: width="450" }
 
-Finally, it's just nice to have a place to put things up online that I think are interesting. In the future, I hope to have more Excel Sheets up, and even some other software projects. It's so much fun to have these things I'm proud of available in a format that friends, or anyone else, can look at immediately from their phones.
+Finally, it's just nice to have a place to put things up online that I think are neat. In the future, I hope to have more Excel Sheets up, and even some other software projects. It's so much fun to have these things I'm proud of available in a format that friends, or anyone else, can look at immediately from their phones.
 
 ## Other Inspirations
 Here are links to a few other articles that had a hand in encouraging me to make this website.
