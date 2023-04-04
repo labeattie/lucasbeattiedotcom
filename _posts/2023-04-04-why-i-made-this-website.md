@@ -33,7 +33,7 @@ This idea came from [David Perell](https://perell.com/essay/serendipity/), and, 
 
 For an example, I know my super detailed, math-heavy posts on drilled shaft capacities aren't going to attract a lot of readers. Of course it's nice as an extended resume piece, but more than that, if anyone IS interested in these articles, and then contacts me about them, I know they're interested in that same niche topic. They are likely an excellent person for me to know. 
 
-These articles have already led to some interesting connections, and have done so far more quickly than I would've expected. I've met a couple of other civil engineers interested in Excel VBA, connected with old friends and acquaintances whose careers have turned in directions very interesting to me, and have even connected with a few personal finance creators with similar interests to me. These little serendipitous incidents constantly remind me this website was a great idea and is already paying off.
+These articles have already led to some interesting connections, and have done so far more quickly than I would've expected. I've met a couple of other civil engineers interested in Excel VBA, connected with old friends and acquaintances whose careers have turned in directions very interesting to me, and have even connected with a few personal finance creators with interests similar to mine. These little serendipitous incidents constantly remind me this website was a great idea and is already paying off.
 
 ## A Place to Put Cool Stuff
 ![dog](/assets/cool dog.jpg){: width="450" }
