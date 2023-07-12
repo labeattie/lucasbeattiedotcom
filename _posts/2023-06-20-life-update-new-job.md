@@ -1,7 +1,7 @@
 ---
 title: "Life Update: New Job!"
 layout: post
-categories: website
+categories: general, career
 ---
 
 After a bit of a hiatus, I'm back with another article! I had set a goal to publish an article every week for a half a year before slowing down, and only ended up making it to 18 out of 26. After this article, hopefully you'll agree that I had a good excuse for the pause. Now I'm hoping to get back to a semi-regular schedule, maybe shooting for an article every two weeks. 
