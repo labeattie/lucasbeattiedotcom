@@ -48,7 +48,7 @@ Speaking of that checking engineer, they probably want you to perform these para
 Additionally, the intuitive understanding of the structure developed through a hand-check reduces confusion regarding the designer's approach for modeling a structure or what a checker is thinking during their review.
 
 ## Develop Judgment
-![gavel](/assets/gavel.jpg){: width="450" }
+![gavel](/assets/gavel.jpg){: width="350" }
 
 I've used the words "intuitive understanding" several times in this article so far. It should be no surprise, then, when I mention it as an advantage unto itself. As a young engineer I was, and still am, amazed by some of my mentors and supervisors who seem to have an uncanny ability to get to the root of a structural design issue, or who immediately grasp the idea behind designing a structure and point out considerations I hadn't thought of.
 
