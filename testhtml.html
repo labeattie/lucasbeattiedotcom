@@ -2,12 +2,39 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Test Page</title>
+  <title>Calculator Test</title>
   <link rel="stylesheet" href="testcss.css">
 </head>
 <body>
-  <h1>Hello from plain HTML!</h1>
-  <p>This page is <strong>not</strong> using the Contrast theme.</p>
-  <div class="box">I’m styled with testcss.css</div>
+  <div id="calculator">
+    <input type="text" id="display" readonly>
+    <div>
+      <button onclick="press('7')">7</button>
+      <button onclick="press('8')">8</button>
+      <button onclick="press('9')">9</button>
+      <button onclick="operate('/')">÷</button>
+    </div>
+    <div>
+      <button onclick="press('4')">4</button>
+      <button onclick="press('5')">5</button>
+      <button onclick="press('6')">6</button>
+      <button onclick="operate('*')">×</button>
+    </div>
+    <div>
+      <button onclick="press('1')">1</button>
+      <button onclick="press('2')">2</button>
+      <button onclick="press('3')">3</button>
+      <button onclick="operate('-')">−</button>
+    </div>
+    <div>
+      <button onclick="press('0')">0</button>
+      <button onclick="clearDisplay()">C</button>
+      <button onclick="calculate()">=</button>
+      <button onclick="operate('+')">+</button>
+    </div>
+  </div>
+
+  <!-- Load JavaScript last so DOM is ready -->
+  <script src="testjs.js"></script>
 </body>
 </html>
