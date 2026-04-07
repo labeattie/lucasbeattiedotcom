@@ -51,7 +51,7 @@ $$F_T = \frac{F_TE_cbc^2}{2A_sE_s(d-c)}$$
 
 $$1 = \frac{E_cbc^2}{2A_sE_s(d-c)}$$
 
-Our unkown here is c, and that looks like something that can be solved with a little quadratic formula work.
+Our unknown here is $$c$$, and that looks like something that can be solved with a little quadratic formula work.
 
 $$2A_sE_s(d-c) = E_cbc^2$$
 
@@ -67,7 +67,7 @@ Now separating the terms, and pulling a 2 from inside the square root gives us:
 
 $$c=\frac{\sqrt{A_s^2E_s^2+2E_cbA_sE_sd}}{E_cb}-\frac{A_sE_s}{E_cb}$$
 
-Ok here's about where I expected to flounder. How do we get from here to those nice compact k and j equations? I don't know who came up with the idea to use the modular ratio ($$n$$) in these, or if theres a more intuitive way to think about it that makes it obvious, but I know we need to move toward getting things in terms of $$n$$, so let's move toward $$E_s / E_c$$ where possible
+Ok here's about where I expected to flounder. How do we get from here to those nice compact k and j equations? I don't know who came up with the idea to use the modular ratio ($$n$$) in these, or if there's a more intuitive way to think about it that makes it obvious, but I know we need to move toward getting things in terms of $$n$$, so let's move toward $$E_s / E_c$$ where possible
 
 $$c=\sqrt{\frac{A_s^2E_s^2}{E_c^2b^2}+\frac{2E_cbA_sE_sd}{E_c^2b^2}}-\frac{A_sE_s}{E_cb}$$
 
@@ -81,7 +81,7 @@ Nice, we're getting closer. Now for the next trick, we'll continue to work towar
 
 $$\rho = \frac{A_s}{bd}$$
 
-However, you'll see that in our equation so far, the terms are all $$A_s/b$$, so we need an extra $$d$$. This is where inventing that $$k$$ variable came in so much use. Again, not sure who thought of that or if there's a more obvious way to conceptualize it, but it seems like a stroke of ingenious simplicity to me.
+However, you'll see that in our equation so far, the terms are all $$A_s/b$$, so we need an extra $$d$$. This is where inventing that $$k$$ variable comes in so much use. Again, not sure who thought of that or if there's a more obvious way to conceptualize it, but it seems like a stroke of ingenious simplicity to me.
 
 $$c = kd$$
 
@@ -99,7 +99,7 @@ One of three down, and its all downhill from here. I was so satisfied when that 
 
 So next, we go back to our force diagram from the photo, and we take a sum of moments about the compression force centroid. In this problem, we know the applied moment and are trying to get the associated service steel stress, so the value of the sum of moments is known.
 
-$$\Sigma M = M_s = T(d-c/3)$$
+$$\Sigma M = M_s = F_T(d-c/3)$$
 
 $$F_T = \frac{M_s}{d-c/3}$$
 
@@ -107,12 +107,12 @@ Now, knowing that the stress in the rebar is $$F_T/A_s$$ and substituting in our
 
 $$f_{ss} = \frac{F_T}{A_s} = \frac{M}{A_s(d - kd/3)} = \frac{M}{A_sd(1 - k/3)}$$
 
-We have it! You can see that the final step is creating a variable $$j$$ to slightly simplify. This one seems much less useful than the $$k$$, $$\rho$$, and $$n$$ simplications, but for completeness:
+We have it! You can see that the final step is creating a variable $$j$$ to slightly simplify. This one seems much less useful than the $$k$$, $$\rho$$, and $$n$$ simplifications, but for completeness:
 
 $$j = 1 - k/3 \tag{2}$$
 
 $$f_{ss} = M_s / (A_sjd) \tag{3}$$
 
-![shining_book](/assets/shining_book.jpg){: width="750" }
+![shining_book](/assets/shining_book.jpg){: width="400" }
 
 We've done it! Always good to see those mysterious, ancient equations bequeathed to us young(ish) engineers, used to relying on our computer crutches, boil down to strain compatibility. Truly among the most useful of structural engineering assumptions. I had a good time working this out, and was really pleased when the simplifications all came together. Hope this is helpful or interesting to someone!
