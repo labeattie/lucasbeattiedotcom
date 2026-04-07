@@ -9,6 +9,8 @@ Ever wondered where those concrete working stress formulas with $$\rho$$, $$j$$,
 
 
 
+![rebar](/assets/rebar.jpg){: width="500" }
+
 In bridge design these days, we almost exclusive use the Whitney stress block for dealing with concrete's stress-strain relationship (at least before booting up some software), which works well for the strength limit state. However, the crack control equations for reinforced concrete in chapter 5 still require calculating $$f{ss}$$, the stress in the reinforcement at the service limit state. It feels like all engineers have some reference to these formulas to solve it, likely just written into a spreadsheet from the previous job.
 
 $$k = \sqrt{2\rho n + (\rho n)^2 - \rho n} \tag{1}$$
