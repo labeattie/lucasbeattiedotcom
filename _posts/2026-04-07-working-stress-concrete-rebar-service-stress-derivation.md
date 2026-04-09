@@ -77,7 +77,7 @@ $$c=\sqrt{\frac{A_s^2}{b^2}\frac{E_s^2}{E_c^2}+2\frac{E_s}{E_c}\frac{A_sd}{b}}-\
 
 $$n = \frac{E_s}{E_c}$$
 
-$$c=\sqrt{n^2\frac{A_s^2}{b^2}+2n\frac{A_sd}{b}}-n\frac{As}{b}$$
+$$c=\sqrt{n^2\frac{A_s^2}{b^2}+2n\frac{A_sd}{b}}-n\frac{A_s}{b}$$
 
 Nice, we're getting closer. Now for the next trick, we'll continue to work toward the final format, and try to put things in terms of $$\rho$$, the reinforcement ratio.
 
@@ -91,7 +91,7 @@ $$k = c/d$$
 
 So now we just need to put a $$d$$ in the denominator (or a $$d^2$$ in the denominator inside a square root).
 
-$$k = \frac{c}{d}=\sqrt{n^2\frac{A_s^2}{b^2d^2}+2n\frac{A_s}{bd}}-n\frac{As}{bd}$$
+$$k = \frac{c}{d}=\sqrt{n^2\frac{A_s^2}{b^2d^2}+2n\frac{A_s}{bd}}-n\frac{A_s}{bd}$$
 
 Viola!
 
